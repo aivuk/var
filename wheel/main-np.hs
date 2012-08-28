@@ -35,7 +35,6 @@ sumA n w g = sumA' n 0
 save_points np l times = writeFile filename $ unlines out
     where
         out = map (\(i, f) -> show (2 * i) ++ ", " ++ show (f / times)) $ zip [1..] l
-                  --  zip [1..] $ zipWith (/) (map fromIntegral l) [1..]
         filename = "points-" ++ (show np) ++ "-" ++ (show $ length l) ++ ".csv"
 
 main = do
