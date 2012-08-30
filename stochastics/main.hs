@@ -7,7 +7,7 @@ import Control.Monad (replicateM)
 import qualified Data.Map as M
 
 data RandVec = RV { dim  :: Int
-                  , mod  :: Int
+                  , rv_mod  :: Int
                   , rv_bounds :: (Int, Int)
                   , vals :: V.Vector Int }
     deriving (Show)
@@ -37,20 +37,20 @@ vec_hash (RV _ m _ v) = sum $ zipWith (*) (map (mi^) [0.. lv]) ivec
         lv = fromIntegral $ V.length v - 1
         ivec = map fromIntegral $ V.toList v
 
-save_points l t = writeFile filename $ unlines out
+save_points l m t = writeFile filename $ unlines out
    where
        out = map (\(i,j) -> (show i) ++ ", " ++ (show j)) $
                 zip [1..] $ map ((/(fromIntegral t)).fromIntegral) l
-       filename = "points-" ++ (show t) ++ ".csv"
+       filename = "points-mod-" ++ (show m) ++ "-" ++ (show t) ++ ".csv"
  
 main = do
    sg <- R.getStdGen
    rs <- return $ take 256 $ R.randoms sg
    g <- initialize $ V.fromList rs
-   rv <- makeRandVec 10 (0,2) g
+   rv <- makeRandVec 10 (0,20) g
    let num_vecs = 1000000
    new_vecs <- replicateM num_vecs (changeRandVec rv g)
    let hist = M.fromListWith (+) $ zip (map vec_hash new_vecs) (repeat 1)
-   save_points (M.elems hist) num_vecs
+   save_points (M.elems hist) (rv_mod rv) num_vecs
    return ()
  
