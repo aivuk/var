@@ -5,6 +5,7 @@ import qualified System.Random as R
 import qualified Data.Vector.Unboxed as V
 import Control.Monad (replicateM)
 import qualified Data.Map as M
+import Data.List (sort)
 
 data RandVec = RV { dim  :: Int
                   , rv_mod  :: Int
@@ -17,6 +18,14 @@ makeVec l bounds = RV (length l) (sum l) bounds (V.fromList l)
 makeRandVec n bounds g = do 
     rvl <- replicateM n (uniformR bounds g)
     return $ makeVec rvl (0, sum rvl)
+   
+uniRandVec c d g = do
+    (p:ps) <- return.sort =<< replicateM (d - 1) (uniformR (0, c) g)
+    return $ vec_comps (p:ps) [p]
+        where
+            vec_comps (p:p':ps) vl = vec_comps (p':ps) ((p' - p):vl)
+            vec_comps (p':[]) vl = (c - sum vl):vl   
+            vec_comps [] vl = vl
 
 changeRandVec rv@(RV _ !m !bds !v) g = do
     i <- uniformR (0, V.length v - 1) g
@@ -49,8 +58,9 @@ main = do
    g <- initialize $ V.fromList rs
    rv <- makeRandVec 10 (0,20) g
    let num_vecs = 1000000
-   new_vecs <- replicateM num_vecs (changeRandVec rv g)
+--   new_vecs <- replicateM num_vecs (changeRandVec rv g)
+   new_vecs <- replicateM num_vecs (return.(RV 5 10 (0,10).(V.fromList)) =<< uniRandVec 10 5 g) 
    let hist = M.fromListWith (+) $ zip (map vec_hash new_vecs) (repeat 1)
-   save_points (M.elems hist) (rv_mod rv) num_vecs
+   save_points (M.elems hist) (10) num_vecs
    return ()
  
