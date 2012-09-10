@@ -2,16 +2,18 @@
 
 from scipy.stats import expon, uniform, norm
 from math import sqrt
+from functools import partial
 import pylab
 import numpy
 
 # índices dos tipos das funções utilizadas nos modelos
 ptypes = ['e', 'u', 'n']
 # Tamanho total dos dados de uma classe
-data_size = 40
+data_size = 400
 # Tamanho do conjunto de treinamento dos dados de uma
 # classe. Necessariamente menor que 'data_size'
-training_size = 20
+training_size = 200
+dx = 0.10
 
 def max_idx(xs):
    """ Função para retornar índice do maior elemento 
@@ -26,34 +28,34 @@ def mkU(data):
     """ Retorna pdf uniforme com parâmetros encontrados
         por Maximum Likelihood a partir de 'data' """
     a, b = min(data), max(data) 
-    return uniform(loc=a, scale=b-a).pdf
+    return uniform(loc=a, scale=b-a).cdf
 
 def mkE(data):
     """ Retorna pdf exponencial com parâmetros encontrados
         por Maximum Likelihood a partir de 'data' """
-    return expon(scale=sum(data)/len(data)).pdf
+    return expon(scale=sum(data)/len(data)).cdf
 
 def mkN(data):
     """ Retorna pdf normal com parâmetros encontrados
         por Maximum Likelihood a partir de 'data' """
     m = sum(data)/len(data)
     sd = sqrt(sum(map(lambda xi: (xi - m)**2, data))/len(data))
-    return norm(loc=m, scale=sd).pdf
+    return norm(loc=m, scale=sd).cdf
 
 # Matriz com dados de treinamento e teste.
 # data[c] possui os dados da distribuição da classe c
-data = [ expon.rvs(scale=6, size=data_size)
-       , uniform.rvs(loc=15, scale=10, size=data_size)
-       , norm.rvs(loc=12, scale=4, size=data_size) ]
+data = numpy.array([ expon.rvs(scale=6, size=data_size)
+                   , uniform.rvs(loc=15, scale=10, size=data_size)
+                   , norm.rvs(loc=12, scale=4, size=data_size) ])
 
 # Funções com parâmetros encontrados pelo método de 
 # Máxima Verossimilhança.
 # models_func[c][t] possui função do tipo t cálculada a 
 # partir dos dados da classe c 
-models_func = [dict(e = mkE(data[i][0:training_size]),
-                    u = mkU(data[i][0:training_size]),
-                    n = mkN(data[i][0:training_size]))
-                    for i in xrange(0, 3)]
+models_func = numpy.array([[mkE(data[i][0:training_size]),
+                            mkU(data[i][0:training_size]),
+                            mkN(data[i][0:training_size])] 
+                                for i in xrange(0, 3)])
 
 # Verossimilhanças calculadas a partir das funções ajustadas
 # em models_func.
@@ -65,9 +67,13 @@ likelihoods = []
 for i in xrange(0,3):
     likelihoods.append([])
     for j in xrange(0,3):
-        likelihoods[i].append({t: map(models_func[j][t],
-            data[i][training_size:]) for t in ptypes})
+        def prob_int(f, dx, x):
+            return f(x + dx) - f(x - dx)
+        likelihoods[i].append({t: map(partial(prob_int,
+            models_func[j][t], dx/2.0),
+            data[i][training_size:]) for t in xrange(0,3)})
 
+likelihoods_a = numpy.array(likelihoods)
 # Dicionário que possuirá todas as matrizes de confusão.
 # conf_mats[(t1, t2, t3)] possuirá matriz de confusão
 # quando o modelo é classe 1 com função de distribuição
@@ -76,9 +82,9 @@ conf_mats = {}
 
 # Laço para calcular matrizes de confusão para todos
 # possíveis modelos
-for t1, t2, t3 in [(t1, t2, t3) for t1 in ptypes
-                                for t2 in ptypes
-                                for t3 in ptypes]:
+for t1, t2, t3 in [(t1, t2, t3) for t1 in xrange(0,3)
+                                for t2 in xrange(0,3)
+                                for t3 in xrange(0,3)]:
     conf_mats[(t1,t2,t3)] = {} 
     for i in xrange(0,3):
         c_guesses = []
