@@ -1,4 +1,5 @@
 {-# OPTIONS_GHC -XBangPatterns #-}
+module Main where
 
 import System.Random.MWC 
 import qualified System.Random as R 
@@ -24,7 +25,7 @@ uniRandVec c d g = do
     return $ vec_comps (p:ps) [p]
         where
             vec_comps (p:p':ps) vl = vec_comps (p':ps) ((p' - p):vl)
-            vec_comps (p':[]) vl = (c - sum vl):vl   
+            vec_comps (p':[]) vl = (c - p'):vl   
             vec_comps [] vl = vl
 
 changeRandVec rv@(RV _ !m !bds !v) g = do
@@ -49,7 +50,7 @@ vec_hash (RV _ m _ v) = sum $ zipWith (*) (map (mi^) [0.. lv]) ivec
 save_points l m t = writeFile filename $ unlines out
    where
        out = map (\(i,j) -> (show i) ++ ", " ++ (show j)) $
-                zip [1..] $ map ((/(fromIntegral t)).fromIntegral) l
+                zip [1..] l
        filename = "points-mod-" ++ (show m) ++ "-" ++ (show t) ++ ".csv"
  
 main = do
@@ -59,8 +60,8 @@ main = do
    rv <- makeRandVec 10 (0,20) g
    let num_vecs = 1000000
 --   new_vecs <- replicateM num_vecs (changeRandVec rv g)
-   new_vecs <- replicateM num_vecs (return.(RV 5 10 (0,10).(V.fromList)) =<< uniRandVec 10 5 g) 
+   new_vecs <- replicateM num_vecs (return.(RV 11 3 (0,200).(V.fromList)) =<< uniRandVec 3 11 g) 
    let hist = M.fromListWith (+) $ zip (map vec_hash new_vecs) (repeat 1)
-   save_points (M.elems hist) (10) num_vecs
+   save_points (sort $ M.elems hist) (100) num_vecs
    return ()
  
