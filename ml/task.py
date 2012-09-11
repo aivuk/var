@@ -13,7 +13,7 @@ data_size = 400
 # Tamanho do conjunto de treinamento dos dados de uma
 # classe. Necessariamente menor que 'data_size'
 training_size = 200
-dx = 0.10
+dx = 0.5
 
 def max_idx(xs):
    """ Função para retornar índice do maior elemento 
@@ -23,6 +23,9 @@ def max_idx(xs):
        if v > vi:
            vi, ci = v, c
    return ci
+
+def prob_int(f, dx, x):
+   return f(x + dx) - f(x - dx)
 
 def mkU(data):
     """ Retorna pdf uniforme com parâmetros encontrados
@@ -62,18 +65,16 @@ models_func = numpy.array([[mkE(data[i][0:training_size]),
 # likelihoods[dc][c][t] possui verossimilhanças dos dados da
 # classe dc calculadas utilizando função do tipo t com 
 # parâmetros encontrados com os dados da classe c.
-
 likelihoods = []
 for i in xrange(0,3):
     likelihoods.append([])
     for j in xrange(0,3):
-        def prob_int(f, dx, x):
-            return f(x + dx) - f(x - dx)
-        likelihoods[i].append({t: map(partial(prob_int,
+       likelihoods[i].append({t: map(partial(prob_int,
             models_func[j][t], dx/2.0),
             data[i][training_size:]) for t in xrange(0,3)})
 
 likelihoods_a = numpy.array(likelihoods)
+
 # Dicionário que possuirá todas as matrizes de confusão.
 # conf_mats[(t1, t2, t3)] possuirá matriz de confusão
 # quando o modelo é classe 1 com função de distribuição
@@ -122,21 +123,20 @@ def make_report(conf_mats):
 
 make_report(conf_mats)
 
-def plot_dists(cs):
-   """ Plota funções exponencial, uniforme e normal ajustadas
-       a partir de 'data' para classe 'c'. Na cor preta é 
-       plotado a função de distribuição real da classe 'c'. """
-   t = numpy.arange(0, 30, 0.01) 
-   lf = [expon(scale=6).pdf,
-         uniform(loc=15, scale=10).pdf,
-         norm(loc=12, scale=4).pdf]
-   for c in cs:
-       # Pontos da função real da classe c
-       p = map(lf[c], t)
-       # Pontos das funções ajustadas para a classe c
-       pg = [map(models_func[c][dt], t) for dt in ptypes]
-       pylab.plot(t,p,c="black") 
-       for i in xrange(0,3):
-           pylab.plot(t, pg[i])
-
-
+def plot_dists(cs,just_true=False):
+    """ Plota funções exponencial, uniforme e normal ajustadas
+        a partir de 'data' para classe 'c'. Na cor preta é 
+        plotado a função de distribuição real da classe 'c'. """
+    t = numpy.arange(0, 30, 0.01) 
+    lf = [expon(scale=6).pdf,
+          uniform(loc=15, scale=10).pdf,
+          norm(loc=12, scale=4).pdf]
+    for c in cs:
+        # Pontos da função real da classe c
+        p = map(lf[c], t)
+        pylab.plot(t,p,c="black") 
+        # Pontos das funções ajustadas para a classe c
+        if not just_true:
+            pg = [map(partial(prob_int, models_func[c][dt], dx/2.0), t) for dt in xrange(0,3)]
+            for i in xrange(0,3):
+                pylab.plot(t, pg[i])
