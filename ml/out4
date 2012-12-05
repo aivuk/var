@@ -1,0 +1,6520 @@
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	145	17	38
+c=1	0	200	0
+c=2	93	45	62
+
+Classificações corretas: 407
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	16	24
+c=1	0	196	4
+c=2	39	42	119
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	15	35
+c=1	1	199	0
+c=2	23	45	132
+
+Classificações corretas: 481
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	125	54	21
+c=1	0	63	137
+c=2	93	0	107
+
+Classificações corretas: 295
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	70	16	114
+c=1	0	200	0
+c=2	137	60	3
+
+Classificações corretas: 273
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	15	183
+c=1	1	199	0
+c=2	0	45	155
+
+Classificações corretas: 356
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	110	14	76
+c=1	0	185	15
+c=2	1	34	165
+
+Classificações corretas: 460
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	15	183
+c=1	1	199	0
+c=2	0	45	155
+
+Classificações corretas: 356
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	140	54
+c=1	95	14	91
+c=2	4	17	179
+
+Classificações corretas: 199
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	17	23
+c=1	0	200	0
+c=2	39	63	98
+
+Classificações corretas: 458
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	15	29
+c=1	1	199	0
+c=2	29	45	126
+
+Classificações corretas: 481
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	148	7	45
+c=1	0	109	91
+c=2	23	6	171
+
+Classificações corretas: 428
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	157	16	27
+c=1	0	200	0
+c=2	34	45	121
+
+Classificações corretas: 478
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	147	15	38
+c=1	1	199	0
+c=2	93	45	62
+
+Classificações corretas: 408
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	105	56	39
+c=1	0	109	91
+c=2	29	6	165
+
+Classificações corretas: 379
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	15	183
+c=1	0	200	0
+c=2	0	45	155
+
+Classificações corretas: 357
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	5	98	97
+c=1	63	0	137
+c=2	0	1	199
+
+Classificações corretas: 204
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	15	25
+c=1	0	199	1
+c=2	39	45	116
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	110	15	75
+c=1	1	199	0
+c=2	1	45	154
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	17	181
+c=1	0	200	0
+c=2	0	63	137
+
+Classificações corretas: 339
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	154	16	30
+c=1	0	185	15
+c=2	29	34	137
+
+Classificações corretas: 476
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	71	15	114
+c=1	0	199	1
+c=2	152	45	3
+
+Classificações corretas: 273
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	158	15	27
+c=1	1	199	0
+c=2	34	45	121
+
+Classificações corretas: 478
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	149	15	36
+c=1	0	185	15
+c=2	23	34	143
+
+Classificações corretas: 477
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	5	39
+c=1	0	63	137
+c=2	34	0	166
+
+Classificações corretas: 385
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	72	16	112
+c=1	14	186	0
+c=2	163	34	3
+
+Classificações corretas: 261
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	10	184
+c=1	95	101	4
+c=2	4	38	158
+
+Classificações corretas: 265
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 481
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	177	14	9
+c=1	0	189	11
+c=2	89	42	69
+
+Classificações corretas: 435
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	17	33
+c=1	0	198	2
+c=2	30	46	124
+
+Classificações corretas: 472
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	146	12	42
+c=1	1	199	0
+c=2	20	48	132
+
+Classificações corretas: 477
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	25	19
+c=1	0	12	188
+c=2	89	0	111
+
+Classificações corretas: 279
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	101	13	86
+c=1	0	200	0
+c=2	122	55	23
+
+Classificações corretas: 324
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	12	182
+c=1	1	199	0
+c=2	0	48	152
+
+Classificações corretas: 357
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	131	14	55
+c=1	6	168	26
+c=2	8	29	163
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	12	12	176
+c=1	1	199	0
+c=2	67	48	85
+
+Classificações corretas: 296
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	9	138	53
+c=1	150	0	50
+c=2	14	8	178
+
+Classificações corretas: 187
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	13	37
+c=1	0	200	0
+c=2	30	55	115
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	154	12	34
+c=1	0	199	1
+c=2	32	48	120
+
+Classificações corretas: 473
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	11	49
+c=1	0	131	69
+c=2	20	8	172
+
+Classificações corretas: 443
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	12	32
+c=1	0	189	11
+c=2	34	42	124
+
+Classificações corretas: 469
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	181	12	7
+c=1	1	199	0
+c=2	89	48	63
+
+Classificações corretas: 443
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	131	30	39
+c=1	0	131	69
+c=2	32	8	160
+
+Classificações corretas: 422
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	14	184
+c=1	6	183	11
+c=2	0	42	158
+
+Classificações corretas: 343
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	104	94
+c=1	12	0	188
+c=2	0	3	197
+
+Classificações corretas: 199
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	12	38
+c=1	0	199	1
+c=2	30	48	122
+
+Classificações corretas: 471
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	131	12	57
+c=1	1	199	0
+c=2	8	48	144
+
+Classificações corretas: 474
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	12	12	176
+c=1	7	193	0
+c=2	67	48	85
+
+Classificações corretas: 290
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	152	14	34
+c=1	0	174	26
+c=2	32	29	139
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	101	12	87
+c=1	0	199	1
+c=2	122	48	30
+
+Classificações corretas: 330
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	158	12	30
+c=1	1	199	0
+c=2	34	48	118
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	144	12	44
+c=1	0	174	26
+c=2	20	29	151
+
+Classificações corretas: 469
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	152	6	42
+c=1	0	12	188
+c=2	34	0	166
+
+Classificações corretas: 330
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	101	17	82
+c=1	0	198	2
+c=2	122	46	32
+
+Classificações corretas: 331
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	24	4	172
+c=1	200	0	0
+c=2	115	0	85
+
+Classificações corretas: 109
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 477
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	20	24
+c=1	0	190	10
+c=2	90	37	73
+
+Classificações corretas: 419
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	24	38
+c=1	0	197	3
+c=2	37	41	122
+
+Classificações corretas: 457
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	137	20	43
+c=1	3	197	0
+c=2	24	46	130
+
+Classificações corretas: 464
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	118	43	39
+c=1	0	27	173
+c=2	88	2	110
+
+Classificações corretas: 255
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	86	21	93
+c=1	0	200	0
+c=2	149	47	4
+
+Classificações corretas: 290
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	56	20	124
+c=1	3	197	0
+c=2	3	46	151
+
+Classificações corretas: 404
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	112	16	72
+c=1	0	181	19
+c=2	7	29	164
+
+Classificações corretas: 457
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	7	20	173
+c=1	3	197	0
+c=2	8	46	146
+
+Classificações corretas: 350
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	14	125	61
+c=1	137	0	63
+c=2	10	16	174
+
+Classificações corretas: 188
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	22	40
+c=1	0	200	0
+c=2	36	53	111
+
+Classificações corretas: 449
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	20	40
+c=1	3	197	0
+c=2	28	46	126
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	132	13	55
+c=1	0	128	72
+c=2	24	8	168
+
+Classificações corretas: 428
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	139	17	44
+c=1	0	190	10
+c=2	27	38	135
+
+Classificações corretas: 464
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	20	20
+c=1	3	197	0
+c=2	90	46	64
+
+Classificações corretas: 421
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	98	50	52
+c=1	0	128	72
+c=2	26	10	164
+
+Classificações corretas: 390
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	52	20	128
+c=1	0	190	10
+c=2	2	38	160
+
+Classificações corretas: 402
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	51	143
+c=1	27	0	173
+c=2	1	2	197
+
+Classificações corretas: 203
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	20	42
+c=1	0	197	3
+c=2	37	46	117
+
+Classificações corretas: 452
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	113	20	67
+c=1	3	197	0
+c=2	7	46	147
+
+Classificações corretas: 457
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	21	173
+c=1	0	200	0
+c=2	2	52	146
+
+Classificações corretas: 352
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	136	19	45
+c=1	0	181	19
+c=2	28	29	143
+
+Classificações corretas: 460
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	86	20	94
+c=1	0	197	3
+c=2	150	46	4
+
+Classificações corretas: 287
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	20	40
+c=1	3	197	0
+c=2	28	46	126
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	136	16	48
+c=1	0	181	19
+c=2	24	29	147
+
+Classificações corretas: 464
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	135	6	59
+c=1	0	27	173
+c=2	28	0	172
+
+Classificações corretas: 334
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	89	22	89
+c=1	10	190	0
+c=2	159	37	4
+
+Classificações corretas: 283
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	27	0	173
+c=1	200	0	0
+c=2	54	0	146
+
+Classificações corretas: 173
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 464
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	169	15	16
+c=1	0	183	17
+c=2	89	37	74
+
+Classificações corretas: 426
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	15	34
+c=1	0	193	7
+c=2	42	38	120
+
+Classificações corretas: 464
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	12	48
+c=1	3	195	2
+c=2	25	43	132
+
+Classificações corretas: 467
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	142	31	27
+c=1	0	35	165
+c=2	89	0	111
+
+Classificações corretas: 288
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	101	14	85
+c=1	0	200	0
+c=2	143	46	11
+
+Classificações corretas: 312
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	43	12	145
+c=1	3	195	2
+c=2	0	43	157
+
+Classificações corretas: 395
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	117	10	73
+c=1	0	173	27
+c=2	15	33	152
+
+Classificações corretas: 442
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	12	182
+c=1	5	195	0
+c=2	14	43	143
+
+Classificações corretas: 344
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	7	124	69
+c=1	120	0	80
+c=2	11	18	171
+
+Classificações corretas: 178
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	14	35
+c=1	0	200	0
+c=2	42	46	112
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	12	35
+c=1	0	195	5
+c=2	42	43	115
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	137	7	56
+c=1	0	106	94
+c=2	25	6	169
+
+Classificações corretas: 412
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	144	13	43
+c=1	0	183	17
+c=2	32	37	131
+
+Classificações corretas: 458
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	172	12	16
+c=1	3	195	2
+c=2	89	43	68
+
+Classificações corretas: 435
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	124	34	42
+c=1	0	106	94
+c=2	42	6	152
+
+Classificações corretas: 382
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	43	12	145
+c=1	0	183	17
+c=2	0	37	163
+
+Classificações corretas: 389
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	4	55	141
+c=1	35	0	165
+c=2	0	1	199
+
+Classificações corretas: 203
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	12	37
+c=1	0	195	5
+c=2	42	43	115
+
+Classificações corretas: 461
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	117	12	71
+c=1	3	195	2
+c=2	15	43	142
+
+Classificações corretas: 454
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	5	13	182
+c=1	0	200	0
+c=2	12	45	143
+
+Classificações corretas: 348
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	13	36
+c=1	0	173	27
+c=2	42	33	125
+
+Classificações corretas: 449
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	101	12	87
+c=1	0	195	5
+c=2	143	43	14
+
+Classificações corretas: 310
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	145	12	43
+c=1	3	195	2
+c=2	32	43	125
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	139	11	50
+c=1	0	173	27
+c=2	25	33	142
+
+Classificações corretas: 454
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	142	4	54
+c=1	0	35	165
+c=2	32	0	168
+
+Classificações corretas: 345
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	101	15	84
+c=1	0	193	7
+c=2	143	38	19
+
+Classificações corretas: 313
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	18	0	182
+c=1	200	0	0
+c=2	57	0	143
+
+Classificações corretas: 161
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 467
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	179	15	6
+c=1	0	181	19
+c=2	102	40	58
+
+Classificações corretas: 418
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	16	24
+c=1	0	193	7
+c=2	40	47	113
+
+Classificações corretas: 466
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	154	15	31
+c=1	0	197	3
+c=2	27	49	124
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	129	51	20
+c=1	0	8	192
+c=2	102	1	97
+
+Classificações corretas: 234
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	74	16	110
+c=1	0	200	0
+c=2	143	53	4
+
+Classificações corretas: 278
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	49	15	136
+c=1	0	197	3
+c=2	3	49	148
+
+Classificações corretas: 394
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	119	11	70
+c=1	0	178	22
+c=2	8	33	159
+
+Classificações corretas: 456
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	15	183
+c=1	3	197	0
+c=2	20	49	131
+
+Classificações corretas: 330
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	7	134	59
+c=1	123	0	77
+c=2	9	14	177
+
+Classificações corretas: 184
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	16	24
+c=1	0	200	0
+c=2	38	55	107
+
+Classificações corretas: 467
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	157	15	28
+c=1	0	197	3
+c=2	36	49	115
+
+Classificações corretas: 469
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	152	6	42
+c=1	0	112	88
+c=2	26	6	168
+
+Classificações corretas: 432
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	159	15	26
+c=1	0	181	19
+c=2	35	42	123
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	180	15	5
+c=1	0	197	3
+c=2	103	49	48
+
+Classificações corretas: 425
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	106	55	39
+c=1	0	112	88
+c=2	35	6	159
+
+Classificações corretas: 377
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	47	16	137
+c=1	0	181	19
+c=2	1	41	158
+
+Classificações corretas: 386
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	74	124
+c=1	8	0	192
+c=2	3	4	193
+
+Classificações corretas: 195
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	15	25
+c=1	0	197	3
+c=2	40	49	111
+
+Classificações corretas: 468
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	119	15	66
+c=1	0	197	3
+c=2	8	49	143
+
+Classificações corretas: 459
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	15	183
+c=1	0	200	0
+c=2	15	54	131
+
+Classificações corretas: 333
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	12	32
+c=1	0	178	22
+c=2	35	34	131
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	74	15	111
+c=1	3	197	0
+c=2	146	49	5
+
+Classificações corretas: 276
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	15	25
+c=1	0	197	3
+c=2	38	49	113
+
+Classificações corretas: 470
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	12	35
+c=1	0	178	22
+c=2	26	34	140
+
+Classificações corretas: 471
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	158	2	40
+c=1	0	8	192
+c=2	37	1	162
+
+Classificações corretas: 328
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	75	16	109
+c=1	10	190	0
+c=2	151	45	4
+
+Classificações corretas: 269
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	17	0	183
+c=1	200	0	0
+c=2	69	0	131
+
+Classificações corretas: 148
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 475
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	161	12	27
+c=1	0	187	13
+c=2	73	39	88
+
+Classificações corretas: 436
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	155	13	32
+c=1	0	197	3
+c=2	32	44	124
+
+Classificações corretas: 476
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	10	39
+c=1	0	199	1
+c=2	25	49	126
+
+Classificações corretas: 476
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	28	21
+c=1	0	88	112
+c=2	72	3	125
+
+Classificações corretas: 364
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	86	11	103
+c=1	0	200	0
+c=2	123	61	16
+
+Classificações corretas: 302
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	3	10	187
+c=1	0	199	1
+c=2	0	49	151
+
+Classificações corretas: 353
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	119	10	71
+c=1	0	177	23
+c=2	14	34	152
+
+Classificações corretas: 448
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	10	188
+c=1	0	199	1
+c=2	0	49	151
+
+Classificações corretas: 352
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	10	139	51
+c=1	122	0	78
+c=2	11	20	169
+
+Classificações corretas: 179
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	155	11	34
+c=1	0	200	0
+c=2	32	61	107
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	158	10	32
+c=1	0	199	1
+c=2	32	49	119
+
+Classificações corretas: 476
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	148	11	41
+c=1	0	118	82
+c=2	25	10	165
+
+Classificações corretas: 431
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	155	11	34
+c=1	0	187	13
+c=2	32	39	129
+
+Classificações corretas: 471
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	163	10	27
+c=1	0	199	1
+c=2	73	49	78
+
+Classificações corretas: 440
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	135	31	34
+c=1	0	118	82
+c=2	31	11	158
+
+Classificações corretas: 411
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	11	187
+c=1	0	187	13
+c=2	0	39	161
+
+Classificações corretas: 350
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	7	56	137
+c=1	88	0	112
+c=2	2	1	197
+
+Classificações corretas: 204
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	155	10	35
+c=1	0	199	1
+c=2	32	49	119
+
+Classificações corretas: 473
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	119	10	71
+c=1	0	199	1
+c=2	14	49	137
+
+Classificações corretas: 455
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	11	187
+c=1	0	200	0
+c=2	0	61	139
+
+Classificações corretas: 341
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	12	32
+c=1	0	177	23
+c=2	32	34	134
+
+Classificações corretas: 467
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	86	10	104
+c=1	0	199	1
+c=2	123	49	28
+
+Classificações corretas: 313
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	10	34
+c=1	0	199	1
+c=2	32	49	119
+
+Classificações corretas: 474
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	11	39
+c=1	0	177	23
+c=2	25	34	141
+
+Classificações corretas: 468
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	8	39
+c=1	0	88	112
+c=2	32	2	166
+
+Classificações corretas: 407
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	86	13	101
+c=1	0	197	3
+c=2	123	44	33
+
+Classificações corretas: 316
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	12	1	187
+c=1	177	20	3
+c=2	34	10	156
+
+Classificações corretas: 188
+================================================
+Melhor modelo: ('e', 'e', 'e')	 Corretos: 476
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	163	16	21
+c=1	0	180	20
+c=2	92	26	82
+
+Classificações corretas: 425
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	137	19	44
+c=1	0	194	6
+c=2	36	32	132
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	134	10	56
+c=1	0	193	7
+c=2	24	31	145
+
+Classificações corretas: 472
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	31	29
+c=1	0	35	165
+c=2	91	2	107
+
+Classificações corretas: 282
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	98	14	88
+c=1	0	199	1
+c=2	129	37	34
+
+Classificações corretas: 331
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	8	10	182
+c=1	0	193	7
+c=2	1	31	168
+
+Classificações corretas: 369
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	113	8	79
+c=1	2	173	25
+c=2	11	18	171
+
+Classificações corretas: 457
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	24	10	166
+c=1	7	193	0
+c=2	70	31	99
+
+Classificações corretas: 316
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	9	116	75
+c=1	148	0	52
+c=2	10	13	177
+
+Classificações corretas: 186
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	137	14	49
+c=1	0	199	1
+c=2	35	38	127
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	10	50
+c=1	0	193	7
+c=2	36	31	133
+
+Classificações corretas: 466
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	126	11	63
+c=1	0	119	81
+c=2	24	7	169
+
+Classificações corretas: 414
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	14	46
+c=1	0	180	20
+c=2	35	27	138
+
+Classificações corretas: 458
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	170	10	20
+c=1	0	193	7
+c=2	92	31	77
+
+Classificações corretas: 440
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	114	34	52
+c=1	0	119	81
+c=2	35	8	157
+
+Classificações corretas: 390
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	11	183
+c=1	2	178	20
+c=2	0	27	173
+
+Classificações corretas: 357
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	77	117
+c=1	35	0	165
+c=2	2	2	196
+
+Classificações corretas: 202
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	137	10	53
+c=1	0	193	7
+c=2	36	31	133
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	113	10	77
+c=1	0	193	7
+c=2	11	31	158
+
+Classificações corretas: 464
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	24	10	166
+c=1	10	190	0
+c=2	70	31	99
+
+Classificações corretas: 313
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	14	48
+c=1	0	175	25
+c=2	36	18	146
+
+Classificações corretas: 459
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	98	10	92
+c=1	0	193	7
+c=2	129	31	40
+
+Classificações corretas: 331
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	145	10	45
+c=1	0	193	7
+c=2	36	31	133
+
+Classificações corretas: 471
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	129	12	59
+c=1	0	175	25
+c=2	24	18	158
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	137	8	55
+c=1	0	35	165
+c=2	36	1	163
+
+Classificações corretas: 335
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	98	19	83
+c=1	0	194	6
+c=2	129	32	39
+
+Classificações corretas: 331
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	34	2	164
+c=1	200	0	0
+c=2	101	0	99
+
+Classificações corretas: 133
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 472
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	168	14	18
+c=1	0	187	13
+c=2	86	34	80
+
+Classificações corretas: 435
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	145	16	39
+c=1	0	198	2
+c=2	36	44	120
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	14	43
+c=1	2	196	2
+c=2	21	44	135
+
+Classificações corretas: 474
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	27	30
+c=1	0	4	196
+c=2	85	1	114
+
+Classificações corretas: 261
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	99	16	85
+c=1	0	200	0
+c=2	130	47	23
+
+Classificações corretas: 322
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	70	14	116
+c=1	2	196	2
+c=2	4	44	152
+
+Classificações corretas: 418
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	133	11	56
+c=1	0	181	19
+c=2	17	31	152
+
+Classificações corretas: 466
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	37	14	149
+c=1	2	196	2
+c=2	117	44	39
+
+Classificações corretas: 272
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	44	98	58
+c=1	146	11	43
+c=2	38	5	157
+
+Classificações corretas: 212
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	145	16	39
+c=1	0	200	0
+c=2	36	47	117
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	146	14	40
+c=1	0	196	4
+c=2	36	44	120
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	141	8	51
+c=1	0	123	77
+c=2	21	10	169
+
+Classificações corretas: 433
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	14	43
+c=1	0	187	13
+c=2	33	34	133
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	170	14	16
+c=1	2	196	2
+c=2	86	44	70
+
+Classificações corretas: 436
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	119	33	48
+c=1	0	123	77
+c=2	35	11	154
+
+Classificações corretas: 396
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	68	14	118
+c=1	0	187	13
+c=2	4	34	162
+
+Classificações corretas: 417
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	0	70	130
+c=1	0	4	196
+c=2	0	4	196
+
+Classificações corretas: 200
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	145	14	41
+c=1	0	196	4
+c=2	36	44	120
+
+Classificações corretas: 461
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	133	14	53
+c=1	0	196	4
+c=2	17	44	139
+
+Classificações corretas: 468
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	37	15	148
+c=1	7	193	0
+c=2	125	36	39
+
+Classificações corretas: 269
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	144	11	45
+c=1	0	181	19
+c=2	36	31	133
+
+Classificações corretas: 458
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	99	14	87
+c=1	0	196	4
+c=2	130	44	26
+
+Classificações corretas: 321
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	145	14	41
+c=1	2	196	2
+c=2	33	44	123
+
+Classificações corretas: 464
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	141	11	48
+c=1	0	181	19
+c=2	21	31	148
+
+Classificações corretas: 470
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	2	55
+c=1	0	4	196
+c=2	33	0	167
+
+Classificações corretas: 314
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	99	16	85
+c=1	0	198	2
+c=2	130	44	26
+
+Classificações corretas: 323
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	51	2	147
+c=1	189	11	0
+c=2	161	0	39
+
+Classificações corretas: 101
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 474
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	169	14	17
+c=1	0	190	10
+c=2	76	36	88
+
+Classificações corretas: 447
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	146	14	40
+c=1	0	190	10
+c=2	31	37	132
+
+Classificações corretas: 468
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	17	43
+c=1	0	199	1
+c=2	23	47	130
+
+Classificações corretas: 469
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	154	19	27
+c=1	0	11	189
+c=2	76	0	124
+
+Classificações corretas: 289
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	100	18	82
+c=1	0	200	0
+c=2	124	50	26
+
+Classificações corretas: 326
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	34	17	149
+c=1	0	199	1
+c=2	1	47	152
+
+Classificações corretas: 385
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	126	8	66
+c=1	4	172	24
+c=2	12	27	161
+
+Classificações corretas: 459
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	13	17	170
+c=1	1	199	0
+c=2	57	47	96
+
+Classificações corretas: 308
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	9	130	61
+c=1	118	0	82
+c=2	8	15	177
+
+Classificações corretas: 186
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	146	18	36
+c=1	0	200	0
+c=2	31	50	119
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	149	17	34
+c=1	0	199	1
+c=2	35	47	118
+
+Classificações corretas: 466
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	6	56
+c=1	0	92	108
+c=2	23	7	170
+
+Classificações corretas: 400
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	13	44
+c=1	0	190	10
+c=2	28	36	136
+
+Classificações corretas: 469
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	171	17	12
+c=1	0	199	1
+c=2	76	47	77
+
+Classificações corretas: 447
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	134	21	45
+c=1	0	92	108
+c=2	35	7	158
+
+Classificações corretas: 384
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	35	11	154
+c=1	4	186	10
+c=2	1	36	163
+
+Classificações corretas: 384
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	4	71	125
+c=1	11	0	189
+c=2	0	1	199
+
+Classificações corretas: 203
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	146	17	37
+c=1	0	199	1
+c=2	31	47	122
+
+Classificações corretas: 467
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	125	17	58
+c=1	0	199	1
+c=2	12	47	141
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	14	16	170
+c=1	5	195	0
+c=2	57	47	96
+
+Classificações corretas: 305
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	149	11	40
+c=1	0	176	24
+c=2	35	27	138
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	100	17	83
+c=1	0	199	1
+c=2	124	47	29
+
+Classificações corretas: 328
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	144	17	39
+c=1	0	199	1
+c=2	28	47	125
+
+Classificações corretas: 468
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	139	10	51
+c=1	0	176	24
+c=2	23	27	150
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	142	4	54
+c=1	0	11	189
+c=2	28	0	172
+
+Classificações corretas: 325
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	100	14	86
+c=1	0	190	10
+c=2	124	37	39
+
+Classificações corretas: 329
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	30	0	170
+c=1	200	0	0
+c=2	104	0	96
+
+Classificações corretas: 126
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 469
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	181	10	9
+c=1	0	188	12
+c=2	66	37	97
+
+Classificações corretas: 466
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	163	12	25
+c=1	0	192	8
+c=2	24	39	137
+
+Classificações corretas: 492
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	158	8	34
+c=1	1	194	5
+c=2	21	42	137
+
+Classificações corretas: 489
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	168	15	17
+c=1	0	41	159
+c=2	66	1	133
+
+Classificações corretas: 342
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	108	12	80
+c=1	0	200	0
+c=2	104	50	46
+
+Classificações corretas: 354
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	4	8	188
+c=1	1	194	5
+c=2	0	42	158
+
+Classificações corretas: 356
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	7	50
+c=1	7	166	27
+c=2	19	29	152
+
+Classificações corretas: 461
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	19	8	173
+c=1	6	194	0
+c=2	116	42	42
+
+Classificações corretas: 255
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	25	124	51
+c=1	149	0	51
+c=2	27	11	162
+
+Classificações corretas: 187
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	163	12	25
+c=1	0	200	0
+c=2	24	50	126
+
+Classificações corretas: 489
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	167	8	25
+c=1	0	194	6
+c=2	29	42	129
+
+Classificações corretas: 490
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	154	6	40
+c=1	0	114	86
+c=2	21	12	167
+
+Classificações corretas: 435
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	165	10	25
+c=1	0	188	12
+c=2	24	37	139
+
+Classificações corretas: 492
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	183	8	9
+c=1	1	194	5
+c=2	66	42	92
+
+Classificações corretas: 469
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	154	17	29
+c=1	0	114	86
+c=2	29	12	159
+
+Classificações corretas: 427
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	10	188
+c=1	7	181	12
+c=2	0	37	163
+
+Classificações corretas: 346
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	87	111
+c=1	41	0	159
+c=2	1	5	194
+
+Classificações corretas: 196
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	163	8	29
+c=1	0	194	6
+c=2	24	42	134
+
+Classificações corretas: 491
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	8	49
+c=1	1	194	5
+c=2	19	42	139
+
+Classificações corretas: 476
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	19	8	173
+c=1	15	185	0
+c=2	118	40	42
+
+Classificações corretas: 246
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	167	9	24
+c=1	0	173	27
+c=2	29	29	142
+
+Classificações corretas: 482
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	108	8	84
+c=1	0	194	6
+c=2	104	42	54
+
+Classificações corretas: 356
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	167	8	25
+c=1	1	194	5
+c=2	24	42	134
+
+Classificações corretas: 495
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	9	35
+c=1	0	173	27
+c=2	21	29	150
+
+Classificações corretas: 479
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	163	4	33
+c=1	0	41	159
+c=2	24	1	175
+
+Classificações corretas: 379
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	108	12	80
+c=1	0	192	8
+c=2	104	39	57
+
+Classificações corretas: 357
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	27	2	171
+c=1	200	0	0
+c=2	158	0	42
+
+Classificações corretas: 69
+================================================
+Melhor modelo: ('e', 'u', 'u')	 Corretos: 495
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	175	11	14
+c=1	0	181	19
+c=2	103	25	72
+
+Classificações corretas: 428
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	157	13	30
+c=1	0	192	8
+c=2	39	29	132
+
+Classificações corretas: 481
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	9	41
+c=1	0	200	0
+c=2	22	39	139
+
+Classificações corretas: 489
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	145	33	22
+c=1	0	5	195
+c=2	102	1	97
+
+Classificações corretas: 247
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	93	10	97
+c=1	0	199	1
+c=2	147	38	15
+
+Classificações corretas: 307
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	16	9	175
+c=1	0	200	0
+c=2	0	39	161
+
+Classificações corretas: 377
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	122	8	70
+c=1	0	169	31
+c=2	8	21	171
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	14	9	177
+c=1	0	200	0
+c=2	48	39	113
+
+Classificações corretas: 327
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	8	130	62
+c=1	133	0	67
+c=2	8	12	180
+
+Classificações corretas: 188
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	157	10	33
+c=1	0	199	1
+c=2	39	38	123
+
+Classificações corretas: 479
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	159	9	32
+c=1	0	200	0
+c=2	34	39	127
+
+Classificações corretas: 486
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	146	7	47
+c=1	0	110	90
+c=2	22	4	174
+
+Classificações corretas: 430
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	161	9	30
+c=1	0	181	19
+c=2	39	25	136
+
+Classificações corretas: 478
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	178	9	13
+c=1	0	200	0
+c=2	103	39	58
+
+Classificações corretas: 436
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	127	36	37
+c=1	0	110	90
+c=2	33	5	162
+
+Classificações corretas: 399
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	13	11	176
+c=1	0	181	19
+c=2	0	25	175
+
+Classificações corretas: 369
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	94	104
+c=1	5	0	195
+c=2	0	3	197
+
+Classificações corretas: 199
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	157	9	34
+c=1	0	200	0
+c=2	39	39	122
+
+Classificações corretas: 479
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	122	9	69
+c=1	0	200	0
+c=2	8	39	153
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	14	9	177
+c=1	8	192	0
+c=2	57	30	113
+
+Classificações corretas: 319
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	157	10	33
+c=1	0	169	31
+c=2	34	21	145
+
+Classificações corretas: 471
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	93	9	98
+c=1	0	200	0
+c=2	147	39	14
+
+Classificações corretas: 307
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	162	9	29
+c=1	0	200	0
+c=2	39	39	122
+
+Classificações corretas: 484
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	149	8	43
+c=1	0	169	31
+c=2	22	21	157
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	158	4	38
+c=1	0	5	195
+c=2	39	0	161
+
+Classificações corretas: 324
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	93	13	94
+c=1	0	192	8
+c=2	147	29	24
+
+Classificações corretas: 309
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	23	2	175
+c=1	200	0	0
+c=2	87	0	113
+
+Classificações corretas: 136
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 489
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	127	9	64
+c=1	0	176	24
+c=2	30	25	145
+
+Classificações corretas: 448
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	165	12	23
+c=1	0	190	10
+c=2	44	36	120
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	155	10	35
+c=1	0	197	3
+c=2	23	46	131
+
+Classificações corretas: 483
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	62	67	71
+c=1	0	57	143
+c=2	28	5	167
+
+Classificações corretas: 286
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	69	10	121
+c=1	0	200	0
+c=2	144	49	7
+
+Classificações corretas: 276
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	109	10	81
+c=1	0	197	3
+c=2	4	46	150
+
+Classificações corretas: 456
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	139	8	53
+c=1	0	176	24
+c=2	10	25	165
+
+Classificações corretas: 480
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	10	188
+c=1	3	197	0
+c=2	3	46	151
+
+Classificações corretas: 350
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	8	145	47
+c=1	134	0	66
+c=2	11	17	172
+
+Classificações corretas: 180
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	165	10	25
+c=1	0	200	0
+c=2	44	55	101
+
+Classificações corretas: 466
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	157	10	33
+c=1	0	197	3
+c=2	29	46	125
+
+Classificações corretas: 479
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	7	40
+c=1	0	124	76
+c=2	23	10	167
+
+Classificações corretas: 444
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	146	9	45
+c=1	0	176	24
+c=2	15	25	160
+
+Classificações corretas: 482
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	128	10	62
+c=1	0	197	3
+c=2	30	46	124
+
+Classificações corretas: 449
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	91	71	38
+c=1	0	124	76
+c=2	27	12	161
+
+Classificações corretas: 376
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	107	10	83
+c=1	0	176	24
+c=2	4	25	171
+
+Classificações corretas: 454
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	3	107	90
+c=1	57	0	143
+c=2	3	4	193
+
+Classificações corretas: 196
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	165	10	25
+c=1	0	197	3
+c=2	44	46	110
+
+Classificações corretas: 472
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	139	10	51
+c=1	0	197	3
+c=2	10	46	144
+
+Classificações corretas: 480
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	10	188
+c=1	0	200	0
+c=2	0	55	145
+
+Classificações corretas: 347
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	9	35
+c=1	0	176	24
+c=2	29	25	146
+
+Classificações corretas: 478
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	69	10	121
+c=1	3	197	0
+c=2	147	46	7
+
+Classificações corretas: 273
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	147	10	43
+c=1	0	197	3
+c=2	15	46	139
+
+Classificações corretas: 483
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	154	9	37
+c=1	0	176	24
+c=2	23	25	152
+
+Classificações corretas: 482
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	145	3	52
+c=1	0	57	143
+c=2	15	3	182
+
+Classificações corretas: 384
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	72	9	119
+c=1	27	173	0
+c=2	168	25	7
+
+Classificações corretas: 252
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	12	0	188
+c=1	200	0	0
+c=2	49	0	151
+
+Classificações corretas: 163
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 483
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	177	11	12
+c=1	0	177	23
+c=2	108	45	47
+
+Classificações corretas: 401
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	162	16	22
+c=1	0	198	2
+c=2	51	53	96
+
+Classificações corretas: 456
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	14	36
+c=1	1	199	0
+c=2	19	57	124
+
+Classificações corretas: 473
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	124	53	23
+c=1	0	0	200
+c=2	108	0	92
+
+Classificações corretas: 216
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	72	14	114
+c=1	0	200	0
+c=2	133	60	7
+
+Classificações corretas: 279
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	73	14	113
+c=1	0	199	1
+c=2	1	57	142
+
+Classificações corretas: 414
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	115	10	75
+c=1	0	176	24
+c=2	9	36	155
+
+Classificações corretas: 446
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	14	184
+c=1	1	199	0
+c=2	4	57	139
+
+Classificações corretas: 340
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	7	132	61
+c=1	143	0	57
+c=2	13	15	172
+
+Classificações corretas: 179
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	162	14	24
+c=1	0	200	0
+c=2	51	60	89
+
+Classificações corretas: 451
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	155	14	31
+c=1	1	199	0
+c=2	26	57	117
+
+Classificações corretas: 471
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	148	7	45
+c=1	0	132	68
+c=2	19	7	174
+
+Classificações corretas: 454
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	11	29
+c=1	0	177	23
+c=2	45	45	110
+
+Classificações corretas: 447
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	177	14	9
+c=1	0	199	1
+c=2	108	57	35
+
+Classificações corretas: 411
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	102	58	40
+c=1	0	132	68
+c=2	26	7	167
+
+Classificações corretas: 401
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	71	13	116
+c=1	0	177	23
+c=2	1	45	154
+
+Classificações corretas: 402
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	90	108
+c=1	0	0	200
+c=2	0	2	198
+
+Classificações corretas: 200
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	162	14	24
+c=1	0	199	1
+c=2	51	57	92
+
+Classificações corretas: 453
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	115	14	71
+c=1	1	199	0
+c=2	9	57	134
+
+Classificações corretas: 448
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	14	184
+c=1	0	200	0
+c=2	1	60	139
+
+Classificações corretas: 341
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	155	10	35
+c=1	0	176	24
+c=2	26	36	138
+
+Classificações corretas: 469
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	72	14	114
+c=1	0	199	1
+c=2	136	57	7
+
+Classificações corretas: 278
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	14	26
+c=1	0	199	1
+c=2	45	57	98
+
+Classificações corretas: 457
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	10	40
+c=1	0	176	24
+c=2	19	36	145
+
+Classificações corretas: 471
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	158	2	40
+c=1	0	0	200
+c=2	45	0	155
+
+Classificações corretas: 313
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	76	12	112
+c=1	25	175	0
+c=2	158	35	7
+
+Classificações corretas: 258
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	16	0	184
+c=1	200	0	0
+c=2	61	0	139
+
+Classificações corretas: 155
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 473
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	175	9	16
+c=1	0	185	15
+c=2	64	31	105
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	14	26
+c=1	0	190	10
+c=2	36	39	125
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	15	34
+c=1	1	195	4
+c=2	25	46	129
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	36	21
+c=1	0	59	141
+c=2	64	0	136
+
+Classificações corretas: 338
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	85	17	98
+c=1	0	200	0
+c=2	137	51	12
+
+Classificações corretas: 297
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	69	15	116
+c=1	1	195	4
+c=2	1	46	153
+
+Classificações corretas: 417
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	126	8	66
+c=1	0	180	20
+c=2	13	28	159
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	15	179
+c=1	5	195	0
+c=2	45	46	109
+
+Classificações corretas: 310
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	140	54
+c=1	132	0	68
+c=2	8	17	175
+
+Classificações corretas: 181
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	17	23
+c=1	0	200	0
+c=2	35	52	113
+
+Classificações corretas: 473
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	15	25
+c=1	0	195	5
+c=2	35	46	119
+
+Classificações corretas: 474
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	5	45
+c=1	0	113	87
+c=2	25	5	170
+
+Classificações corretas: 433
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	9	41
+c=1	0	185	15
+c=2	25	32	143
+
+Classificações corretas: 478
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	176	15	9
+c=1	1	195	4
+c=2	64	46	90
+
+Classificações corretas: 461
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	128	37	35
+c=1	0	113	87
+c=2	35	5	160
+
+Classificações corretas: 401
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	68	9	123
+c=1	0	185	15
+c=2	0	32	168
+
+Classificações corretas: 421
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	4	68	128
+c=1	59	0	141
+c=2	1	0	199
+
+Classificações corretas: 203
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	15	25
+c=1	0	195	5
+c=2	36	46	118
+
+Classificações corretas: 473
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	126	15	59
+c=1	1	195	4
+c=2	13	46	141
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	15	179
+c=1	4	196	0
+c=2	44	47	109
+
+Classificações corretas: 311
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	160	9	31
+c=1	0	180	20
+c=2	35	28	137
+
+Classificações corretas: 477
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	85	15	100
+c=1	0	195	5
+c=2	137	46	17
+
+Classificações corretas: 297
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	15	34
+c=1	1	195	4
+c=2	26	46	128
+
+Classificações corretas: 474
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	9	41
+c=1	0	180	20
+c=2	25	28	147
+
+Classificações corretas: 477
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	4	46
+c=1	0	59	141
+c=2	26	0	174
+
+Classificações corretas: 383
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	85	14	101
+c=1	0	190	10
+c=2	137	39	24
+
+Classificações corretas: 299
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	21	0	179
+c=1	200	0	0
+c=2	91	0	109
+
+Classificações corretas: 130
+================================================
+Melhor modelo: ('e', 'n', 'u')	 Corretos: 478
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	161	12	27
+c=1	0	174	26
+c=2	75	31	94
+
+Classificações corretas: 429
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	144	17	39
+c=1	0	191	9
+c=2	34	38	128
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	133	16	51
+c=1	4	193	3
+c=2	21	41	138
+
+Classificações corretas: 464
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	128	34	38
+c=1	0	45	155
+c=2	75	1	124
+
+Classificações corretas: 297
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	93	19	88
+c=1	0	200	0
+c=2	150	45	5
+
+Classificações corretas: 298
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	34	16	150
+c=1	4	193	3
+c=2	1	41	158
+
+Classificações corretas: 385
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	112	11	77
+c=1	0	167	33
+c=2	12	27	161
+
+Classificações corretas: 440
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	11	16	173
+c=1	7	193	0
+c=2	54	41	105
+
+Classificações corretas: 309
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	8	115	77
+c=1	123	0	77
+c=2	13	12	175
+
+Classificações corretas: 183
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	144	19	37
+c=1	0	200	0
+c=2	34	45	121
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	16	44
+c=1	4	193	3
+c=2	30	41	129
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	132	5	63
+c=1	0	105	95
+c=2	20	8	172
+
+Classificações corretas: 409
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	12	50
+c=1	0	174	26
+c=2	24	31	145
+
+Classificações corretas: 457
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	162	16	22
+c=1	4	193	3
+c=2	76	41	83
+
+Classificações corretas: 438
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	106	38	56
+c=1	0	105	95
+c=2	29	8	163
+
+Classificações corretas: 374
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	34	11	155
+c=1	0	174	26
+c=2	1	30	169
+
+Classificações corretas: 377
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	1	33	166
+c=1	45	0	155
+c=2	1	0	199
+
+Classificações corretas: 200
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	144	16	40
+c=1	0	193	7
+c=2	34	41	125
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	112	16	72
+c=1	4	193	3
+c=2	12	41	147
+
+Classificações corretas: 452
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	11	16	173
+c=1	4	196	0
+c=2	55	40	105
+
+Classificações corretas: 312
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	139	12	49
+c=1	0	167	33
+c=2	29	28	143
+
+Classificações corretas: 449
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	94	16	90
+c=1	0	193	7
+c=2	151	41	8
+
+Classificações corretas: 295
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	139	16	45
+c=1	4	193	3
+c=2	25	41	134
+
+Classificações corretas: 466
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	132	12	56
+c=1	0	167	33
+c=2	20	28	152
+
+Classificações corretas: 451
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	1	61
+c=1	0	45	155
+c=2	24	1	175
+
+Classificações corretas: 358
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	94	17	89
+c=1	0	191	9
+c=2	151	38	11
+
+Classificações corretas: 296
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	27	0	173
+c=1	200	0	0
+c=2	95	0	105
+
+Classificações corretas: 132
+================================================
+Melhor modelo: ('e', 'u', 'u')	 Corretos: 466
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	164	14	22
+c=1	0	185	15
+c=2	95	30	75
+
+Classificações corretas: 424
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	147	15	38
+c=1	0	196	4
+c=2	47	37	116
+
+Classificações corretas: 459
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	141	11	48
+c=1	0	199	1
+c=2	27	38	135
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	131	37	32
+c=1	0	22	178
+c=2	95	1	104
+
+Classificações corretas: 257
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	89	15	96
+c=1	0	200	0
+c=2	151	44	5
+
+Classificações corretas: 294
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	69	11	120
+c=1	0	199	1
+c=2	1	38	161
+
+Classificações corretas: 429
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	116	11	73
+c=1	0	180	20
+c=2	7	29	164
+
+Classificações corretas: 460
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	10	11	179
+c=1	1	199	0
+c=2	27	38	135
+
+Classificações corretas: 344
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	9	128	63
+c=1	130	0	70
+c=2	15	15	170
+
+Classificações corretas: 179
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	147	15	38
+c=1	0	200	0
+c=2	46	45	109
+
+Classificações corretas: 456
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	11	39
+c=1	0	199	1
+c=2	38	38	124
+
+Classificações corretas: 473
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	137	9	54
+c=1	0	119	81
+c=2	27	9	164
+
+Classificações corretas: 420
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	144	14	42
+c=1	0	185	15
+c=2	32	31	137
+
+Classificações corretas: 466
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	167	11	22
+c=1	0	199	1
+c=2	95	38	67
+
+Classificações corretas: 433
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	114	41	45
+c=1	0	119	81
+c=2	38	9	153
+
+Classificações corretas: 386
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	64	16	120
+c=1	0	185	15
+c=2	0	31	169
+
+Classificações corretas: 418
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	4	66	130
+c=1	22	0	178
+c=2	2	0	198
+
+Classificações corretas: 202
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	147	11	42
+c=1	0	199	1
+c=2	47	38	115
+
+Classificações corretas: 461
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	117	11	72
+c=1	0	199	1
+c=2	7	38	155
+
+Classificações corretas: 471
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	8	13	179
+c=1	0	200	0
+c=2	20	45	135
+
+Classificações corretas: 343
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	147	13	40
+c=1	0	180	20
+c=2	38	29	133
+
+Classificações corretas: 460
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	89	11	100
+c=1	0	199	1
+c=2	151	38	11
+
+Classificações corretas: 299
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	147	11	42
+c=1	0	199	1
+c=2	33	38	129
+
+Classificações corretas: 475
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	13	49
+c=1	0	180	20
+c=2	27	29	144
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	5	52
+c=1	0	22	178
+c=2	33	1	166
+
+Classificações corretas: 331
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	89	15	96
+c=1	0	196	4
+c=2	151	37	12
+
+Classificações corretas: 297
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	21	1	178
+c=1	200	0	0
+c=2	65	0	135
+
+Classificações corretas: 156
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 475
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	175	7	18
+c=1	0	186	14
+c=2	84	35	81
+
+Classificações corretas: 442
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	10	40
+c=1	0	192	8
+c=2	34	38	128
+
+Classificações corretas: 470
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	146	9	45
+c=1	0	199	1
+c=2	27	44	129
+
+Classificações corretas: 474
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	159	17	24
+c=1	0	7	193
+c=2	84	0	116
+
+Classificações corretas: 282
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	108	9	83
+c=1	0	200	0
+c=2	111	44	45
+
+Classificações corretas: 353
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	9	9	182
+c=1	0	199	1
+c=2	1	44	155
+
+Classificações corretas: 363
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	126	8	66
+c=1	0	177	23
+c=2	16	22	162
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	9	185
+c=1	1	199	0
+c=2	47	44	109
+
+Classificações corretas: 314
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	5	133	62
+c=1	146	0	54
+c=2	11	19	170
+
+Classificações corretas: 175
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	9	41
+c=1	0	200	0
+c=2	33	45	122
+
+Classificações corretas: 472
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	9	38
+c=1	0	199	1
+c=2	39	44	117
+
+Classificações corretas: 469
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	144	7	49
+c=1	0	127	73
+c=2	27	7	166
+
+Classificações corretas: 437
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	6	41
+c=1	0	186	14
+c=2	35	36	129
+
+Classificações corretas: 468
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	176	9	15
+c=1	0	199	1
+c=2	84	44	72
+
+Classificações corretas: 447
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	136	22	42
+c=1	0	127	73
+c=2	39	7	154
+
+Classificações corretas: 417
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	7	8	185
+c=1	0	186	14
+c=2	0	36	164
+
+Classificações corretas: 357
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	0	98	102
+c=1	7	0	193
+c=2	1	2	197
+
+Classificações corretas: 197
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	9	41
+c=1	0	199	1
+c=2	34	44	122
+
+Classificações corretas: 471
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	126	9	65
+c=1	0	199	1
+c=2	16	44	140
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	6	9	185
+c=1	1	199	0
+c=2	48	43	109
+
+Classificações corretas: 314
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	152	7	41
+c=1	0	177	23
+c=2	39	22	139
+
+Classificações corretas: 468
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	108	9	83
+c=1	0	199	1
+c=2	111	44	45
+
+Classificações corretas: 352
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	9	38
+c=1	0	199	1
+c=2	36	44	120
+
+Classificações corretas: 472
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	146	6	48
+c=1	0	177	23
+c=2	27	22	151
+
+Classificações corretas: 474
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	2	47
+c=1	0	7	193
+c=2	36	0	164
+
+Classificações corretas: 322
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	108	10	82
+c=1	0	192	8
+c=2	111	38	51
+
+Classificações corretas: 351
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	15	2	183
+c=1	200	0	0
+c=2	91	0	109
+
+Classificações corretas: 124
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 474
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	172	18	10
+c=1	0	189	11
+c=2	107	40	53
+
+Classificações corretas: 414
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	19	38
+c=1	0	193	7
+c=2	41	32	127
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	139	17	44
+c=1	0	200	0
+c=2	29	39	132
+
+Classificações corretas: 471
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	33	27
+c=1	0	0	200
+c=2	107	0	93
+
+Classificações corretas: 233
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	92	19	89
+c=1	0	200	0
+c=2	131	49	20
+
+Classificações corretas: 312
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	3	17	180
+c=1	0	200	0
+c=2	0	39	161
+
+Classificações corretas: 364
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	133	14	53
+c=1	8	170	22
+c=2	17	25	158
+
+Classificações corretas: 461
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	12	17	171
+c=1	0	200	0
+c=2	62	39	99
+
+Classificações corretas: 311
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	7	137	56
+c=1	111	0	89
+c=2	8	19	173
+
+Classificações corretas: 180
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	19	38
+c=1	0	200	0
+c=2	40	50	110
+
+Classificações corretas: 453
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	17	32
+c=1	0	200	0
+c=2	45	39	116
+
+Classificações corretas: 467
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	136	6	58
+c=1	0	90	110
+c=2	29	6	165
+
+Classificações corretas: 391
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	156	18	26
+c=1	0	189	11
+c=2	49	40	111
+
+Classificações corretas: 456
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	173	17	10
+c=1	0	200	0
+c=2	107	39	54
+
+Classificações corretas: 427
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	119	36	45
+c=1	0	90	110
+c=2	45	6	149
+
+Classificações corretas: 358
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	1	19	180
+c=1	0	189	11
+c=2	0	40	160
+
+Classificações corretas: 350
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	1	137	62
+c=1	0	0	200
+c=2	0	18	182
+
+Classificações corretas: 183
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	17	40
+c=1	0	200	0
+c=2	41	39	120
+
+Classificações corretas: 463
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	132	17	51
+c=1	0	200	0
+c=2	17	39	144
+
+Classificações corretas: 476
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	11	18	171
+c=1	8	192	0
+c=2	56	45	99
+
+Classificações corretas: 302
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	151	16	33
+c=1	0	178	22
+c=2	45	25	130
+
+Classificações corretas: 459
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	92	17	91
+c=1	0	200	0
+c=2	131	39	30
+
+Classificações corretas: 322
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	157	17	26
+c=1	0	200	0
+c=2	49	39	112
+
+Classificações corretas: 469
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	16	46
+c=1	0	178	22
+c=2	29	25	146
+
+Classificações corretas: 462
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	154	3	43
+c=1	0	0	200
+c=2	49	0	151
+
+Classificações corretas: 305
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	92	19	89
+c=1	0	193	7
+c=2	131	32	37
+
+Classificações corretas: 322
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	29	2	169
+c=1	200	0	0
+c=2	101	0	99
+
+Classificações corretas: 128
+================================================
+Melhor modelo: ('u', 'u', 'n')	 Corretos: 476
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	16	46
+c=1	0	191	9
+c=2	94	39	67
+
+Classificações corretas: 396
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	18	29
+c=1	0	200	0
+c=2	33	51	116
+
+Classificações corretas: 469
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	146	16	38
+c=1	4	196	0
+c=2	20	48	132
+
+Classificações corretas: 474
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	129	46	25
+c=1	0	92	108
+c=2	94	3	103
+
+Classificações corretas: 324
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	80	17	103
+c=1	0	200	0
+c=2	142	55	3
+
+Classificações corretas: 283
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	2	16	182
+c=1	4	196	0
+c=2	1	48	151
+
+Classificações corretas: 349
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	126	14	60
+c=1	0	186	14
+c=2	11	37	152
+
+Classificações corretas: 464
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	10	16	174
+c=1	4	196	0
+c=2	36	48	116
+
+Classificações corretas: 322
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	8	130	62
+c=1	161	0	39
+c=2	23	14	163
+
+Classificações corretas: 171
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	17	30
+c=1	0	200	0
+c=2	32	56	112
+
+Classificações corretas: 465
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	150	16	34
+c=1	4	196	0
+c=2	24	48	128
+
+Classificações corretas: 474
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	144	7	49
+c=1	0	139	61
+c=2	20	14	166
+
+Classificações corretas: 449
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	15	32
+c=1	0	191	9
+c=2	25	40	135
+
+Classificações corretas: 479
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	140	16	44
+c=1	4	196	0
+c=2	94	48	58
+
+Classificações corretas: 394
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	107	48	45
+c=1	0	139	61
+c=2	24	14	162
+
+Classificações corretas: 408
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	1	15	184
+c=1	0	191	9
+c=2	0	40	160
+
+Classificações corretas: 352
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	5	61	134
+c=1	92	0	108
+c=2	4	0	196
+
+Classificações corretas: 201
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	153	16	31
+c=1	0	196	4
+c=2	33	48	119
+
+Classificações corretas: 468
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	127	16	57
+c=1	4	196	0
+c=2	11	48	141
+
+Classificações corretas: 464
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	9	17	174
+c=1	0	200	0
+c=2	32	52	116
+
+Classificações corretas: 325
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	148	15	37
+c=1	0	186	14
+c=2	24	37	139
+
+Classificações corretas: 473
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	80	16	104
+c=1	0	196	4
+c=2	144	48	8
+
+Classificações corretas: 284
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	154	16	30
+c=1	4	196	0
+c=2	26	48	126
+
+Classificações corretas: 476
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	145	14	41
+c=1	0	186	14
+c=2	20	37	143
+
+Classificações corretas: 474
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	152	5	43
+c=1	0	92	108
+c=2	26	3	171
+
+Classificações corretas: 415
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	80	18	102
+c=1	0	200	0
+c=2	144	51	5
+
+Classificações corretas: 285
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	26	0	174
+c=1	200	0	0
+c=2	84	0	116
+
+Classificações corretas: 142
+================================================
+Melhor modelo: ('e', 'n', 'u')	 Corretos: 479
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	154	19	27
+c=1	0	171	29
+c=2	88	29	83
+
+Classificações corretas: 408
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	147	21	32
+c=1	0	189	11
+c=2	45	41	114
+
+Classificações corretas: 450
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	136	16	48
+c=1	0	198	2
+c=2	28	47	125
+
+Classificações corretas: 459
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	121	51	28
+c=1	0	35	165
+c=2	87	1	112
+
+Classificações corretas: 268
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	83	18	99
+c=1	0	200	0
+c=2	143	50	7
+
+Classificações corretas: 290
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	37	16	147
+c=1	0	198	2
+c=2	1	47	152
+
+Classificações corretas: 387
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	109	15	76
+c=1	0	164	36
+c=2	10	22	168
+
+Classificações corretas: 441
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	5	16	179
+c=1	0	198	2
+c=2	0	47	153
+
+Classificações corretas: 356
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	15	122	63
+c=1	111	0	89
+c=2	5	16	179
+
+Classificações corretas: 194
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	147	18	35
+c=1	0	200	0
+c=2	45	51	104
+
+Classificações corretas: 451
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	16	41
+c=1	0	198	2
+c=2	35	47	118
+
+Classificações corretas: 459
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	131	15	54
+c=1	0	102	98
+c=2	28	5	167
+
+Classificações corretas: 400
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	19	43
+c=1	0	171	29
+c=2	35	29	136
+
+Classificações corretas: 445
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	159	16	25
+c=1	0	198	2
+c=2	88	47	65
+
+Classificações corretas: 422
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	95	58	47
+c=1	0	102	98
+c=2	34	6	160
+
+Classificações corretas: 357
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	35	16	149
+c=1	0	171	29
+c=2	1	29	170
+
+Classificações corretas: 376
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	8	43	149
+c=1	35	0	165
+c=2	0	1	199
+
+Classificações corretas: 207
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	147	16	37
+c=1	0	198	2
+c=2	45	47	108
+
+Classificações corretas: 453
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	u
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	111	16	73
+c=1	0	198	2
+c=2	10	47	143
+
+Classificações corretas: 452
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	n
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	3	18	179
+c=1	0	200	0
+c=2	0	51	149
+
+Classificações corretas: 352
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	18	44
+c=1	0	164	36
+c=2	35	22	143
+
+Classificações corretas: 445
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	u
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	83	16	101
+c=1	2	198	0
+c=2	146	47	7
+
+Classificações corretas: 288
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	u
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	143	16	41
+c=1	0	198	2
+c=2	35	47	118
+
+Classificações corretas: 459
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	n
+Distribuição Classe 2:	n
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	131	18	51
+c=1	0	164	36
+c=2	28	22	150
+
+Classificações corretas: 445
+================================================
+Distribuição Classe 0:	e
+Distribuição Classe 1:	e
+Distribuição Classe 2:	u
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	138	8	54
+c=1	0	35	165
+c=2	35	0	165
+
+Classificações corretas: 338
+================================================
+Distribuição Classe 0:	n
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	83	21	96
+c=1	13	187	0
+c=2	158	35	7
+
+Classificações corretas: 277
+================================================
+Distribuição Classe 0:	u
+Distribuição Classe 1:	e
+Distribuição Classe 2:	e
+
+Matriz de confusão:
+	c=0	c=1	c=2
+c=0	16	5	179
+c=1	149	40	11
+c=2	17	24	159
+
+Classificações corretas: 215
+================================================
+Melhor modelo: ('e', 'u', 'n')	 Corretos: 459
