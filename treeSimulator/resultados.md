@@ -18,6 +18,12 @@
 Tamanho da sequência: 10.003
 [Arquivo da sequência](seq1)
 
+### Resultados
+
+ * [VLMC](#vlmc)
+ * [BIC](#bic)
+ * [CSSR](#cssr)
+
 VLMC
 -----
 
@@ -47,7 +53,7 @@ BIC
 
     ./bic.exe alfabeto d 0 0.5  0.21s user 0.00s system 98% cpu 0.214 total
  
-CCSR
+CSSR
 -------
 
 Tempo: 0.006s 
