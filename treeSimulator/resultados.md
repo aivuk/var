@@ -1,5 +1,38 @@
+Sumários dos resultados
+=======================
 
  * [Árvore 1](#Árvore-1)
+
+<table>
+    <thead>
+        <th> Algoritmo</th>
+        <th> Tempo</th>
+        <th> Parâmetros</th>
+        <th>Tamanho da seq.</th>
+    </thead>
+    <tbody>
+         <tr>
+             <td>VLMC</td>
+             <td> 0.048</td> 
+             <td> cutoff=4</td> 
+             <td>10003</td>
+         </tr>
+         <tr>
+             <td>BIC</td>
+             <td> 0.5</td> 
+             <td> c=0,5</td> 
+             <td>10003</td>
+         </tr>
+         <tr>
+             <td>CSSR</td>
+             <td> 0.001</td> 
+             <td> Mem. máxima=4</td> 
+             <td>10003</td>
+         </tr>
+ 
+    </tbody>
+</table>
+
  * [Árvore 2](#Árvore-2) 
 
 Árvore 1
