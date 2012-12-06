@@ -6,7 +6,7 @@ Sumários dos resultados
 <table>
     <thead>
         <th> Algoritmo</th>
-        <th> Tempo</th>
+        <th> Tempo (s)</th>
         <th> Parâmetros</th>
         <th>Tamanho da seq.</th>
     </thead>
@@ -19,13 +19,13 @@ Sumários dos resultados
          </tr>
          <tr>
              <td>BIC</td>
-             <td> 0.5</td> 
-             <td> c=0,5</td> 
+             <td> 0.21</td> 
+             <td> c=0.5</td> 
              <td>10003</td>
          </tr>
          <tr>
              <td>CSSR</td>
-             <td> 0.001</td> 
+             <td> 0.006</td> 
              <td> Mem. máxima=4</td> 
              <td>10003</td>
          </tr>
@@ -34,6 +34,37 @@ Sumários dos resultados
 </table>
 
  * [Árvore 2](#Árvore-2) 
+
+<table>
+    <thead>
+        <th> Algoritmo</th>
+        <th> Tempo (s)</th>
+        <th> Parâmetros</th>
+        <th>Tamanho da seq.</th>
+    </thead>
+    <tbody>
+         <tr>
+             <td>VLMC</td>
+             <td> 0.056</td> 
+             <td> cutoff=5</td> 
+             <td>10003</td>
+         </tr>
+         <tr>
+             <td>BIC</td>
+             <td> 0.5</td> 
+             <td> c=0.16</td> 
+             <td>10003</td>
+         </tr>
+         <tr>
+             <td>CSSR</td>
+             <td> 0.01</td> 
+             <td> Mem. máxima=10</td> 
+             <td>10003</td>
+         </tr>
+ 
+    </tbody>
+</table>
+ 
 
 Árvore 1
 ========
