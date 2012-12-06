@@ -51,8 +51,8 @@ Sumários dos resultados
          </tr>
          <tr>
              <td>BIC</td>
-             <td> 0.5</td> 
-             <td> c=0.16</td> 
+             <td> 0.16</td> 
+             <td> c=0.5</td> 
              <td>10003</td>
          </tr>
          <tr>
