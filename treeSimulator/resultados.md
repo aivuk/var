@@ -52,7 +52,8 @@ CCSR
 Tempo: 0.006 
 File: d2_results
 
-![Grafo da cadeia](CSSR/dot.png "Grafo da cadeia")
+![Grafo da
+cadeia](https://github.com/aivuk/var/raw/master/treeSimulator/CSSR/dot.png "Grafo da cadeia")
 
 
 
