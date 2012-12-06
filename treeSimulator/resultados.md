@@ -52,7 +52,7 @@ Sumários dos resultados
          <tr>
              <td>BIC</td>
              <td> 0.16</td> 
-             <td> c=0.5</td> 
+             <td> c=0.2</td> 
              <td>10003</td>
          </tr>
          <tr>
@@ -194,7 +194,7 @@ VLMC
 BIC
 ------
 
-c=0.5
+c=0.2
 Tempo=0.16s
 
     L = 11
