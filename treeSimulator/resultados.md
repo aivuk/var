@@ -15,7 +15,8 @@
     P(1 | 010) = 0.3
     P(1 | 00)  = 1
 
-Tamanho da sequência: 10.000
+Tamanho da sequência: 10.003
+[Arquivo da sequência](seq1)
 
 VLMC
 -----
@@ -49,8 +50,8 @@ BIC
 CCSR
 -------
 
-Tempo: 0.006 
-File: d2_results
+Tempo: 0.006s 
+[Resultados](CSSR)
 
 ![Grafo da
 cadeia](https://github.com/aivuk/var/raw/master/treeSimulator/CSSR/dot.png "Grafo da cadeia")
