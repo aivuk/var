@@ -1,3 +1,7 @@
+
+ * [Árvore 1](#Árvore-1)
+ * [Árvore 2](#Árvore-2) 
+
 Árvore 1
 ========
 
@@ -81,9 +85,9 @@ Tamanho da sequência: 10.003
 
 ### Resultados
 
- * [VLMC](#vlmc)
- * [BIC](#bic)
- * [CSSR](#cssr)
+ * [VLMC](#vlmc-1)
+ * [BIC](#bic-1)
+ * [CSSR](#cssr-1)
 
 VLMC
 -----
@@ -146,7 +150,9 @@ CSSR
 -------
 
 Tempo: 0.01s 
+
 Memória máxima: 10
-[Resultados](CSSR)
+
+[Resultados](CSSR/seq2)
 
  
