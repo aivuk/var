@@ -6,7 +6,7 @@ type Symbol = Int
 type ProbS = M.IntMap Double
 
 data Tree = Branch Symbol Tree Tree
-          | Root Tree Tree
+          | Root {leftRoot :: Tree, rightRoot :: Tree }
           | Node Symbol ProbS
           deriving (Show, Read)
 
@@ -19,6 +19,13 @@ t = Root (Branch 1 (Branch 1 (Node 1 $ binM 0.2 0.8)
                              (Node 0 $ binM 0.7 0.3))
                    (Node 0 $ binM 0 1))
 
+t2 = Root (Branch 1 (Branch 1 (leftRoot t)
+                              (Node 0 $ binM 0.7 0.3))
+                    (Node 0 $ binM 0 1))
+          (Branch 0 (Branch 1 (leftRoot t) 
+                              (Node 0 $ binM 0.7 0.3))
+                    (rightRoot t))
+ 
 genSeq :: MTGen -> Int -> Tree -> [Int] -> IO [Int]
 genSeq rg size tree initSeq = gs size initSeq
     where
