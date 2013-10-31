@@ -1,0 +1,1750 @@
+NUM_MNHN;ZAC.PRESENTATION;CONTINENT;PAYSETIKET;REGIONPROVINCE;DEPARTEMENT;COMMUNE;LOCALITE;LOCALITETIKET;HABITAT;LONGITUDE;LATITUDE;LONGITUDEDEC;LATITUDEDEC;PRECISION;ALTITUDE;ALTITUDERMQ;ORIGINRMQ;COORDONNEES;ORIGINEPK;PAYSFK;DATECRE;USERCRE;DATEMAJ;USERMAJ
+2004-276;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+2004-277;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+2004-400;P+Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+2004-403;P+Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+2005-252;Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+2005-254;Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+2005-255;C+Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+2005-333;Mo démonté;Afrique;;;;;;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+2005-816;Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+2006-113;P+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+2006-114;P+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+AC-1869-9;
+AC-1871-388;Ci;Afrique;;;;;Imambobouze;;;0;0;;;;;;;;;254;;;2012-02-09T16:32:00+01:00;HENON;|
+ |
+AC-1874-9;
+AC-1875-833;Ci;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-1877-128;
+AC-1879-57;P+Sq
+AC-1880-1918;
+AC-1880-1958;
+AC-1880-1989;
+AC-1881-1230;Ci;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-1881-90;
+AC-1883-1690;
+AC-1883-264;
+AC-1883-392;
+AC-1887-295;
+AC-1887-296;
+AC-1887-435;
+AC-1889-433;Ci;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-1894-436;
+AC-1900-183;Sq
+AC-1906-144;Sq;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-1907-1;
+AC-1907-203;;Afrique;;;;;Tuléar (Baie St Augustin);;;0;0;;;;;;;;;254;;;2012-08-21T13:48:23+02:00;CALLOU;|
+ |
+AC-1907-326;
+AC-1909-289;
+AC-1911-136;
+AC-1912-117;
+AC-1913-201;
+AC-1917-158;
+AC-1918-9;
+AC-1924-174;
+AC-1924-181;;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-08-21T13:48:23+02:00;CALLOU;|
+ |
+AC-1926-145;
+AC-1926-331;
+AC-1926-333;;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-08-21T13:48:23+02:00;CALLOU;|
+ |
+AC-1928-110;
+AC-1928-251;
+AC-1929-109;
+AC-1929-162;
+AC-1929-441;
+AC-1930-394;
+AC-1931-466;
+AC-1931-520;
+AC-1931-639;
+AC-1931-670;
+AC-1931-725;
+AC-1932-113;
+AC-1932-284;C+Sq
+AC-1932-461;
+AC-1932-475;
+AC-1932-584;
+AC-1933-120;
+AC-1933-499;
+AC-1933-644;
+AC-1939-330;
+AC-1939-331;
+AC-1939-332;
+AC-1939-375;
+AC-1939-398;
+AC-1940-382;
+AC-1941-351;
+AC-1944-188;
+AC-1950-236;;Afrique;;;;;d'Ankaramfantsika;;;0;0;;;;;;;;;254;;;2012-08-21T13:48:23+02:00;CALLOU;|
+ |
+AC-1950-237;;Afrique;;;;;Tsaramandroso;;;0;0;;;;;;;;;254;;;2012-08-21T13:48:23+02:00;CALLOU;|
+ |
+AC-1951-100;
+AC-1951-205;
+AC-1951-38;Mo démonté
+AC-1952-79;
+AC-1952-98;
+AC-1959-217;
+AC-1964-63;
+AC-1995-280;P+C
+AC-1997-14;Sq
+AC-A10005;Sq;Afrique;;;;;;;;0;0;;;;;;;;;247;;;2012-02-06T13:35:18+01:00;HENON;|
+ |
+AC-A10595;
+AC-A10598;
+AC-A10609;
+AC-A11319;Es;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A11617;Sq;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A11909;
+AC-A13564;
+AC-A2836;Mo démonté;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A2837;Mo démonté;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A2840;Sq;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A2842;Mo démonté;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A2844;P+Sq;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A2845;P+C;Afrique;Région des Grands Lacs;;;;forêt de Bagamée, Togodo, 176 km N d'Arecho, Togo;;;0;0;;;;;;;;;;;;2012-02-02T10:16:55+01:00;HENON
+AC-A2846;Mo démonté;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A2847;Mo démonté;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A2849;C
+AC-A2853;Mo démonté;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A2856;C;Afrique;;;;;;;;;;;;;;;localité indet : Madagascar;;;254;2012-08-21T13:50:41+02:00;CALLOU;2012-08-21T13:50:57+02:00;CALLOU;|
+ |
+AC-A3004;Ci;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A3005;C;Afrique;Région des Grands Lacs;;;;forêt de Bagamée, Togodo, 176 km N d'Arecho, Togo;;;0;0;;;;;;;;;;;;2012-02-02T10:16:55+01:00;HENON
+AC-A3006;C
+AC-A3919;Ci;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A3920;Mo démonté;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-A4966;
+AC-A4980;
+AC-A5028;
+AC-A5032;
+AC-A8122;
+AC-A8126;
+AC-A8128;
+AC-I-318;Sq;Afrique;;;;;Ste Marie;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:44+01:00;HENON;|
+ |
+AC-I-322;Mo démonté;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+AC-I-323;Ci;Afrique;;;;;Ste Marie;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:44+01:00;HENON;|
+ |
+AC-I-328;Sq;Afrique;;;Mayotte;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:35+01:00;HENON;|
+ |
+AC-I-329;C
+AC-I-333;Mo démonté;Afrique;;;;;;;;0;0;;;;;;;;;254;;;2012-02-06T13:38:03+01:00;HENON;|
+ |
+MO-1849-18;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1854-1261;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1859-388;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1860-105;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1861-597;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1863-579;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1867-587;Mo+C non extrait;Afrique;;;;;Morondava;Côte Sud-Ouest;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1867-588;Mo+C non extrait;Afrique;;;;;;Côte Sud-Ouest;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1867-590;Mo+C non extrait;Afrique;;;;;;Morondava;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1867-593;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1867-600;Mo+C non extrait;Afrique;;;;;;Morondava;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1867-601;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1867-602;Mo+C non extrait;Afrique;;;;;;Côte Est;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1867-605;Mo+C non extrait;Afrique;;;;;;Côte Sud-Ouest;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1868-1440;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1868-1441;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1869-193;Mo+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1869-196;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1869-197;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1869-198;Mo+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-100;Mo+C non extrait;Afrique;;;;;;Côte Nord-Est;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-110;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-111;Mo+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-224;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-225;Mo+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-227;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-228;Mo démonté;Afrique;;;;;;Tamboulouze;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1871-229;Mo+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-230;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-231;P+Mb;Afrique;;;;;Baie d'Antongil;;;;;;;;;;;;;254;;;2011-06-03T10:06:00+02:00;KERNEUR;|
+ |
+MO-1871-232;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-233;Mo+P+C;Afrique;;;;;Baie d'Antongil;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-234;Mo+P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-235;P+C;Afrique;;;;;;Andrazane;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1871-236;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-237;Mo+P+C;Afrique;;;;;;Andrazane;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1871-239;P+C+Mb;Afrique;;;;;Manambia;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1871-240;Mo+C;Afrique;;;;;Baie d'Antongil;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-241;Mo+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-242;P+C+Mb;Afrique;;;;;Andrazane;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1871-243;P+C;Afrique;;;;;;Mananbia;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1871-244;Mo+C;Afrique;;;;;Baie d'Antongil;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-245;Mo+C;Afrique;;;;;Baie d'Antongil;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-246;Mo+C;Afrique;;;;;;Morondava;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-247;Mo+P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-248;Mo+C;Afrique;;;;;Baie d'Antongil;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-249;Mo+C non extrait;Afrique;;;;;Baie d'Antongil;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-251;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-252;P+C;Afrique;;;;;;Andrazane;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1871-253;Mo+P+C;Afrique;;;;;Baie d'Antongil;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-254;Mo+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-255;Mo+C non extrait;Afrique;;;;;Anontralé;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-256;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1871-553;Mo+C non extrait;Afrique;;;;;Baie d'Antongil;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1871-99;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1873-7;Mo+C non extrait;Afrique;;;;;;Côte Nord-Est;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1873-8;Mo+C non extrait;Afrique;;;;;;Côte Nord-Est;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1873-9;Mo+C;Afrique;;;;;;Côte Nord-Est;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1874-99;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1875-654 A;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1876-589;Mo+C non extrait;Afrique;;;;;;Morondava;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1876-612;Mo+C non extrait;;;;;;;;;;;;;;;;;;;245;;;2010-09-27T15:57:33+02:00;ZAC;|
+ |
+MO-1877-1331;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1878-3509;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1878-3609;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1879-1552;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1879-2125;Mo+C non extrait;;;;;;Ile de Mayotte;;;;;;;;;;;;;247;;;2010-09-27T15:57:33+02:00;ZAC;|
+ |
+MO-1879-290;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1879-339;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1879-341;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1879-348;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1879-349;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1879-350;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-1961;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2335;P+C+Mb;Afrique;;;;;;Côte Ouest Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1880-2490;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2491;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2492;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2494;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2495;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2499;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2500;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2501;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2502;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2504;P+C;Afrique;;;;Foulle Pointe (aux environs de);;;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1880-2506;P+C+Mb;Afrique;;;;Foulle Pointe (aux environs de);;;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1880-2507;P+C+Mb;Afrique;;;;Foulle Pointe (aux environs de);;;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1880-2510;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2511;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2512;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2513;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2514;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2515;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2516;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2518;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2521;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2523;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2524;P+C+Mb;Afrique;;;;;;Cote Est environ 50 km Nord de Tamatave (Taomasina);;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1880-2525;P+C+Mb;Afrique;;;;;;Cote Est environ 50 km Nord de Tamatave (Taomasina);;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1880-2526;P+C;Afrique;;;;;;Cote Est environ 50 km Nord de Tamatave (Taomasina);;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1880-2527;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2529;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2530;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2531;P+C;Afrique;;;;;;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1880-2532;Mo démonté;Afrique;;;;;;Cote Est environ 50 km Nord de Tamatave (Taomasina);;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1880-2533;Mo démonté;Afrique;;;;;;Cote Est environ 50 km Nord de Tamatave (Taomasina);;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1880-2535;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1880-2536;P+C+Mb;Afrique;;;;;;Côte Ouest Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1880-2537;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1881-71;Mo+C non extrait;Afrique;;;;;;Côte Ouest;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1882-1480;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1482;Mo+C non extrait;Afrique;;;;;;Côte Est à l'intérieur;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1483;P+C+Mb;Afrique;;;;;;Ampasmadinika, Centre Est.;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1882-1484;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1485;P+C+Mb;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1486;P+C+Mb;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1487;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1489;P+C+Mb;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1492;P+C+Mb;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1493;P+C+Mb;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1495;P+C+Mb;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1496;P+C+Mb;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1497;P+C+Mb;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1498;P+C+Mb;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1499;P+C;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1500;P+C;Afrique;;;;;Forêt de Farafangana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1501;P+C+Mb;Afrique;;;;;Village de Manakana, Intérieur de Madagascar, Centre Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1502;P+C+Mb;Afrique;;;;;Village de Manakana;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1503;P+C+Mb;Afrique;;;;;Village de Manakana;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1504;P+C+Mb;Afrique;;;;;Village de Manakana;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1506;P+C;Afrique;;;;;Manakana, Centre Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1507;P+C+Mb;Afrique;;;;;Village de Manakana ;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1508;P+C+Mb;Afrique;;;;;Manakana;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1509;P+C;Afrique;;;;;Manakana, Centre Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1510;P+C+Mb;Afrique;;;;;Nord de Hanakanale , Intérieur de Madagascar, Cente Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1511;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1512;P+C+Mb;Afrique;;;;;Village d'Ampazenambe;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1513;P+C+Mb;Afrique;;;;;Village d'Ampoazenambe;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1514;Mo+C non extrait;Afrique;;;;;Saloha;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1515;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1516;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1518;P+C+Mb;Afrique;;;;;;Salohy, Sud est de Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1519;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1520;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1521;P+C+Mb;Afrique;;;;Farafangane;;;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1882-1522;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1523;P+C+Mb;Afrique;;;;;;Salohy;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1524;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1525;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1526;Mo+C non extrait;Afrique;;;;;Laholoko;Côte Sud-Est;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1527;Mo+C non extrait;Afrique;;;;;Ampapenambé;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1528;P+C;Afrique;;;;;;Au nord d'Ampuzimambe, centre est;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1882-1529;P+C+Mb;Afrique;;;;;;Farafangane (forêt de);;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1531;P+C+Mb;Afrique;;;;;Ampasanambe, centre est;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1532;P+C;Afrique;;;;;;Au nord d'Ampuzimambe, centre est;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1882-1533;Mo+C non extrait;Afrique;;;;;;Côte Est;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1882-1534;Mo+C non extrait;Afrique;;;;;Saloki;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1535;P+C+Mb;Afrique;;;;;Centre Sud Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1536;Mo+C non extrait;Afrique;;;;;;Côte Sud-Est;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1537;Mo+C non extrait;Afrique;;;;;Ampapenambé;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1539;Mo+C non extrait;Afrique;;;;;Ampapenambé;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1540;P+C+Mb;Afrique;;;;;Manakor, Centre Sud Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1882-1541;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1882-1542;P+C;Afrique;;;;;Manakar, Centre Sud Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1882-1543;P+C+Mb;Afrique;;;;;Manakar, Centre Sud Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1882-1544;P+C;Afrique;;;;;Forets de Manakar, Centre Sud Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1882-1546;P+C;Afrique;;;;;;Anevorana, C Est;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1547;P+C non extrait;Afrique;;;;;;Côte Est Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1549;P+C non extrait;Afrique;;;;;Ambodivato;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1550;P+C;Afrique;;;;;;Ambodivata Centre est. Intérieur Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1551;P+C non extrait;Afrique;;;;Farafangane;;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1882-1552;P+C+Mb;Afrique;;;;;Ampasinambo (noté Ampazenambo) Centre Est de Madagascar;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1553;P+C+Mb;Afrique;;;;;centre Est, village d'Ambakobé;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1554;P+C+Mb;Afrique;;;;;Village de Sakafotzy (=Sahafontsy, N E );;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1555;P+C+Mb;Afrique;;;;;Ampasinambo (noté Ampazenambo) Centre Est de Madagascar;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1882-1557;P+Mb;Afrique;;;;;Village de Sakafotzy (=Sahafontsy, N E );;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1558;P+Mb;Afrique;;;;;Village de Sakafotzy (=Sahafontsy, N E );;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1559;P+C+Mb;Afrique;;;;;Village de Sakafotzy (=Sahafontsy, N E );;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1560;P+C+Mb;Afrique;;;;Farafangane;;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1561;P+C+Mb;Afrique;;;;Farafangane;;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1882-1843;P+C non extrait;Afrique;;;;;Centre Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1882-2622;Mo+C non extrait;Afrique;;;;;Baie d'Antongil;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1883-629;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-630;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-632;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-635;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-636;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-637;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-638;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-639;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-640;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-641;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-642;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-643;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-644;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-645;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-648;C+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-650;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1883-651;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1884-2395;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1884-2396;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1885-389;Mo+C;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1885-948;Mo+C non extrait;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1886-1277;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1278;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1279;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1280;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1281;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1282;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1283;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1284;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1285;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1286;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1287;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1288;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1886-1724 bis;Mo+C non extrait;;;;;;Ile d'Anjouan;;;;;;;;;;;;;247;;;2010-09-27T15:57:34+02:00;ZAC;|
+ |
+MO-1887-667;Mo+C non extrait;Afrique;;;;;Manakara;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1887-749;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-751;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-752;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-753;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-754;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-766;Mo+C non extrait;Afrique;;;;;Manakara;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1887-768;Mo+C non extrait;Afrique;;;;;Androutsé;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1887-769;Mo+C non extrait;Afrique;;;;;Antoungoudrahouzé;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1887-770;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-771;Mo+C non extrait;Afrique;;;;;;Morondava;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1887-783;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-784;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-785;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-786;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-787;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-788;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-791;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-792;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-793;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-795;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-796;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-797;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-798;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-800;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-801;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1887-806;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1889-178;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1889-805;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1890-2531;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1891-166;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1891-168;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1891-700;P+C;Afrique;;;;;;Horompong, Morondava;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1892-664;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1892-665;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1892-668;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1893-449;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1893-467;P+C+Mb;Afrique;;;;;Environs de Manditso (Mantidzo);;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1893-494;Mo+C non extrait;Afrique;;;;;;Pays des Sahalavas;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1895-510;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1899-614;Alc+C;Afrique;;;;;;Côte Est;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1900-572;Mo+C non extrait;Afrique;;;;Tamatave (aux environs de);;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1907-841;P+C;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1907-95;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1908-213;P+C;Afrique;;;;;Ménagerie;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1908-221;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1908-230;P+C;Afrique;;;;;;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1908-234;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1908-240;Alc+C;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1908-519;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-133;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-206;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-263;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-264;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-265;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-268;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-270;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-272;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-274;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-275;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-276;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-277;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-278;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-279;C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-280;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-283;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-284;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-285;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-287;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1909-289;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1911-1409;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1911-1906;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1911-449;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-10;Alc+C;Afrique;;;;;;Antevamena;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1912-11;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-12;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-15;Alc+C;Afrique;;;;;;Taomasina;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1912-16A;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-16B;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-20A;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-20B;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-21A;C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-21B;C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-21C;C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-22;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-23;Alc+C;Afrique;;;;;;Côte Ouest;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1912-3;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-6;Alc+C;Afrique;;;;;;Côte Est;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1912-7;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1912-8;Alc+C;Afrique;;;;;;Morondava;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1915-29;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1916-74;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1916-83;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1917-12;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1917-58;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1917-63;P+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1918-12;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1920-1;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1921-216;P+C+Mb;Afrique;;;;;Ménagerie;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1923-3272;P+C+Mb;Afrique;;;;;1 jour à l'Est de Moromandia;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1930-473;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1930-76;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1931-843;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3194;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3231;P+C+Mb;Afrique;;;;;Andapa, 1 jour à l'Ouest.;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3232;P+C+Mb;Afrique;;;;;Andapa, 1 jour à l'Ouest.;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3233;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3234;P+Mb;Afrique;;;;;45 km E de Tulear;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3235;P+Mb;Afrique;;;;;Tabiky, O d'Ankazoabo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3236;P+Mb;Afrique;;;;;Tsimanampetsoa;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3237;P+C non extrait;Afrique;;;;;Tulear 45 Km East;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3238;P+Mb;Afrique;;;;;Tabiky, O d'Ankazoabo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3239;P+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3240;P+C+Mb;Afrique;;;;;Tsiandro;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3241;P+C+Mb;Afrique;;;;;Mamoroka, 1 jour S de Soalala;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3242;P+C+Mb;Afrique;;;;;Tsiandro;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3243;P+C non extrait;Afrique;;;;;Ambararatabe, Province de Soalala;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3244;P+C non extrait;Afrique;;;;;Ambararatabe, Province de Soalala;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3245;P+C;Afrique;;;;;Mamoroka, 1 jour S de Soalala;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3246;P+C+Mb;Afrique;;;;;Tsiandro;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3247;P+C non extrait;Afrique;;;;;Tsimbahaka, Environs d'Ambuida;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3248;P+C;Afrique;;;;;;Ambararatabé, province de Solala, Nord.;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3249;P+C+Mb;Afrique;;;;;;Ambararatabé, province de Solala, Nord.;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3250;P+C+Mb;Afrique;;;;;40 km NO Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3250bis;P+Mb;Afrique;;;;;Tsiroanomandidy;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3251;P+C;Afrique;;;;;1 jour à l'O d'Andapa;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3252;P+C;Afrique;;;;;1 jour à l'O d'Andapa;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3253;P+C+Mb;Afrique;;;;;40 km NO Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3254;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3255;P+C non extrait;Afrique;;;;;Vohibe;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3256;P+Mb;Afrique;;;;;Tabiky, Ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3257;P+C non extrait;Afrique;;;;;Tabiky, Ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3258;P+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3259;P+Mb;Afrique;;;;;Ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3260;P+C non extrait;Afrique;;;;;Tsimanampetsoa;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3261;P+Mb;Afrique;;;;;Tabiky, Ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3262;P+Mb;Afrique;;;;;120 km est de Tulear;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3263;P+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3264;P+C;Afrique;;;;;40 Km NO de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3265;P+C+Mb;Afrique;;;;;40 Km NO de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3266;P+C;Afrique;;;;;2 jours au NE de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3267;P+C non extrait;Afrique;;;;;2 jours au NE de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3268;P+C+Mb;Afrique;;;;;2 jours au NE de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3269;P+Mb;Afrique;;;;;40 km NO Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3270;P+C+Mb;Afrique;;;;;Anaborano;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3271;P+C non extrait;Afrique;;;;;Anaborano;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3272;P+C+Mb;Afrique;;;;;Maromandia (1 jour à l'est de cette localité);;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3273;P+C+Mb;Afrique;;;;;;Moromandia (1 jour à l'Est);;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3274;P+C+Mb;Afrique;;;;;1 jour à l'Est de Moromandia;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3275;P+C+Mb;Afrique;;;;;40 km au N O de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3276;P+Mb;Afrique;;;;;40 km au N O de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3277;P+C+Mb;Afrique;;;;;2 jours au N E de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3278;P+C;Afrique;;;;;2 jours au N E de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3279;P+C+Mb;Afrique;;;;;2 jours au N E de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3280;P+C;Afrique;;;;;20 km S O de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3281;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3282;P+C+Mb;Afrique;;;;;1 jour à l'Ouest d'Andapa.;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3283;P+C;Afrique;;;;;2 jours au N E de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3284;P+C+Mb;Afrique;;;;;Maroantsetra, 1 jour au Nord Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3285;P+Mb;Afrique;;;;;40 km Nord Ouest Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3286;P+C;Afrique;;;;;40 km au N O de Maroantsetra;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3287;P+C;Afrique;;;;;Forest, 20 km Ouest Vondrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3288;P+C;Afrique;;;;;;20 km Ouest Vondrozo;Forêt;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3289;P+C;Afrique;;;;;Manombo;;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1932-3290;P+C;Afrique;;;;;20 km Ouest Vondrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3291;P+C;Afrique;;;;;Forest, 20 km Ouest Vondrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3292;P+C;Afrique;;;;;Manombo;;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1932-3293;P+C;Afrique;;;;;Vohibe;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3294;P+C;Afrique;;;;;20 km Ouest Vondrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3295;P+C;Afrique;;;;;20 km Ouest Vondrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3296;P+C;Afrique;;;;;Forest, 20 km Ouest Vondrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3297;P+C non extrait;Afrique;;;;;Forest, 20 km Ouest Vondrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3298;P+Mb;Afrique;;;;;20 km Ouest Vondrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3299;P+C non extrait;Afrique;;;;;Manombo;;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1932-3300;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3301;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3302;P+C;Afrique;;;;;20 km Ouest Vondrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3303;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3304;P+C+Mb;Afrique;;;;;Mt D'Ambre;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3305;P+C+Mb;Afrique;;;;;Tsarokibany, 15 miles SW;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3306;P+C+Mb;Afrique;;;;;Vohemar, 1 jour au Nord.;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3307;P+C;Afrique;;;;;Vohemar, 1 jour au Nord.;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3308;P+C+Mb;Afrique;;;;;Vohemar;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3309;P+C+Mb;Afrique;;;;;Vohemar, 1 jour au Nord.;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3310;P+Mb;Afrique;;;;;Vohemar, 1 jour au Nord;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3311;P+C+Mb;Afrique;;;;;Vohemar, 1 jour au Nord.;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3312;P+C non extrait;Afrique;;;;;Ambararatébé, province de Soulala;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3313;P+Mb;Afrique;;;;;Vohemar, 1 jour au Nord;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3314;P+Mb;Afrique;;;;;Ambahararatahé, Province de Soalala ;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3315;P+Mb;Afrique;;;;;Ambahararatahé, Province de Soalala;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3316;P+C;Afrique;;;;;;Mont d'Ambre;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3317;P+C+Mb;Afrique;;;;;;Mont d'Ambre;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3318;P+C+Mb;Afrique;;;;;;Mont d'Ambre;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3319;P+C+Mb;Afrique;;;;;;Mont d'Ambre;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3320;P+C+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3321;P+C;Afrique;;;;;Ouest de Mont d'Ambre, Bobokilanchy;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3322;P+C non extrait;Afrique;;;;;Tabiky, ouest de Ankazoabo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3324;P+Mb;Afrique;;;;;Près de ankoja;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3325;P+C+Mb;Afrique;;;;;;Tabiky, ouest de Ankazoabo;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3326;P+C;Afrique;;;;;Antsigny (centre Ouest de madagascar);;;;;;;;2000 ft;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3327;P+Mb;Afrique;;;;;;Tabiky, ouest de Ankazoabo;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3328;P+C non extrait;Afrique;;;;;Namorok, 1 jour au sud de Loalala;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3329;P+Mb;Afrique;;;;;Namorok, 1 jour au sud de Loalala;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3330;P+C non extrait;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1932-3331;P+C;Afrique;;;;;Tsitampiky;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3332;P+C+Mb;Afrique;;;;;Andapa, 1 jour a l'Ouest;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3333;P+C+Mb;Afrique;;;;;Andapa, 1 jour a l'Ouest;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3334;Mo démonté;Afrique;;;;;;Andapa, 1 jour à l'Ouest d';;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1932-3335;P+C non extrait;Afrique;;;;;;Ivohibe;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1932-3336;P+C+Mb;Afrique;;;;;Andapa, 1 jour à l'Ouest d';;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3337;P+C+Mb;Afrique;;;;;Andapa, 1 jour a l'Ouest;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1932-3340;P+Mb;Afrique;;;;;Tabiky, ouest de Ankazoabo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3344;P+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3345;P+Mb;Afrique;;;;;;Namoroka, 1 jour au sud de Soalala;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3349;P+C non extrait;Afrique;;;;;Manombo;;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1932-3351;P+C non extrait;Afrique;;;;;;Tsiroanomandidy;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1932-3352;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3353;P+Mb;Afrique;;;;;20 km Ouest de Vondrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3354;P+Mb;Afrique;;;;;Manombo;;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1932-3355;P+C non extrait;Afrique;;;;;2 jours au N E de Maroantseta;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3356;P+Mb;Afrique;;;;;Tsiroanomandidy;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3357;P+Mb;Afrique;;;;;20 km à l'O de Vandrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3358;P+C+Mb;Afrique;;;;;20 km à l'O de Vandrozo;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3359;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3360;P+C non extrait;Afrique;;;;;Fotsifé, foret de Sianaka, cote Est;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3361;P+C non extrait;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1932-3362;P+C+Mb;Afrique;;;;;;Maroantsetra;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1932-3363;P+C;Afrique;;;;;tabiky, Ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3364;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3365;P+C;Afrique;;;;;;170 km E Tuléar;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1932-3366;P+Mb;Afrique;;;;;Tabiky, à l'ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-01-26T10:13:01+01:00;HENON;|
+ |
+MO-1932-3368;P+Mb;Afrique;;;;;Tabiky, à l'ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-01-26T10:13:01+01:00;HENON;|
+ |
+MO-1932-3369;P+C non extrait;Afrique;;;;;Tabiky, à l'ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-01-26T10:13:01+01:00;HENON;|
+ |
+MO-1932-3370;P+C non extrait;Afrique;;;;;;Mamoroka, 1 jour au sud de Saolala;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3371;P+C non extrait;Afrique;;;;;;Maroantsetra, 20km SO;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1932-3372;P+C non extrait;Afrique;;;;;Maroantsetra, 20 km au SO.;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3373;P+C;Afrique;;;;;;Namoroko, 1 jour sud Soalala;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3374;P+C;Afrique;;;;;Tabiky, à l'ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-01-26T10:12:59+01:00;HENON;|
+ |
+MO-1932-3375;P+C;Afrique;;;;;Tabiky, à l'ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-01-26T10:12:59+01:00;HENON;|
+ |
+MO-1932-3376;P+C;Afrique;;;;;Tabiky, à l'ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-01-26T10:12:59+01:00;HENON;|
+ |
+MO-1932-3377;P+C non extrait;Afrique;;;;;Tabiky, à l'ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-01-26T10:12:59+01:00;HENON;|
+ |
+MO-1932-3378;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3379;P+C non extrait;Afrique;;;;;;;;;;;;;;;;;;254;;;2012-01-26T10:12:52+01:00;HENON;|
+ |
+MO-1932-3380;P+C non extrait;Afrique;;;;;;Maroantsetra, 20 km SW;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1932-3381;P+C non extrait;Afrique;;;;;;170 km east of Tulear;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1932-3382;P+C non extrait;Afrique;;;;;;Côte Est Madagascar, Foret de Sianaka;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1932-3383;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1932-3384;P+Mb;Afrique;;;;;Tabiky, à l'ouest d'Ankazoabo;;;;;;;;;;;;;254;;;2012-01-26T10:12:59+01:00;HENON;|
+ |
+MO-1932-3385;P+C+Mb;Afrique;;;;;;1 jour S Anaborano;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1933-2338;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1939-1120;P+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1940-1202;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1950-859;P+C non extrait;Afrique;;;;;Ankonika;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1953-459;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1953-828;P+C;;;;;;;Oyem;;11°31'00"_E;01°43'00"_N;;;;;;;;;177;;;2012-01-25T16:32:15+01:00;HENON;|
+ |
+MO-1953-860;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1953-867;P+C;;;;;;Paris;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1955-663;P+C non extrait;Afrique;;;;;Betamporia, région orientale de madagascar.;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1955-664;P+C non extrait;Afrique;;;;;Betamporia, Région orientale;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1955-665;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1958-697;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1961-1024;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1961-266;P+C+Mb;Afrique;;;;;;Beroboka;;;;;;;;;;;;254;;;2011-06-03T09:58:27+02:00;KERNEUR;|
+ |
+MO-1962-100;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-101;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-102;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-103;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-104;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-105;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-106;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2094;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2095;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2097;C+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2687;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2688;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1962-2689;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1962-2690;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1962-2691;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1962-2692;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1962-2693;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2694;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1962-2695;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:33+02:00;ZAC
+MO-1962-2696;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2697;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:33+02:00;ZAC
+MO-1962-2701;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1962-2702;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2703;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2704;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2705;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1962-2706;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2707;Mo démonté;Afrique;;;;;;170 km E of Tuléar;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1962-2708;Mo démonté;Afrique;;;;;Tuléar;;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1962-2709;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2710;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2711;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:33+02:00;ZAC
+MO-1962-2712;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2713;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2714;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2715;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2720;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2731;Mo démonté;Afrique;;;;;;Ivohibe;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1962-2738;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2739;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2740;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2741;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2742;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2743;Mo démonté;;;;;;;;;;;;;;;;;;;99;;;2012-01-26T10:35:24+01:00;HENON;|
+ |
+MO-1962-2744;Mo démonté;;;;;;;;;;;;;;;;;;;99;;;2012-01-26T10:35:24+01:00;HENON;|
+ |
+MO-1962-2745;Mo démonté;;;;;;;;;;;;;;;;;;;99;;;2012-01-26T10:35:24+01:00;HENON;|
+ |
+MO-1962-2746;Mo démonté;;;;;;;;;;;;;;;;;;;99;;;2012-01-26T10:35:24+01:00;HENON;|
+ |
+MO-1962-2747;Mo démonté;;;;;;;;;;;;;;;;;;;99;;;2012-01-26T10:35:24+01:00;HENON;|
+ |
+MO-1962-2748;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2749;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2750;Mo+C;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:33+02:00;ZAC
+MO-1962-2753;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2754;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2755;Mo démonté;;;;;;;;;;;;;;;;;;;99;;;2012-01-26T10:35:24+01:00;HENON;|
+ |
+MO-1962-2756;Mo démonté;;;;;;;;;;;;;;;;;;;99;;;2012-01-26T10:35:24+01:00;HENON;|
+ |
+MO-1962-2757;Mo démonté;;;;;;;;;;;;;;;;;;;99;;;2012-01-26T10:35:24+01:00;HENON;|
+ |
+MO-1962-2758;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2759;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1962-2760;Mo démonté;Afrique;;;;;;Baie d'Antongil;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1962-2761;;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1962-2762;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2763;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2764;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2765;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2766;Mo démonté;Afrique;;;;;;Tamboulouze;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1962-2767;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2768;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1962-2769;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2770;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2771;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2772;Mo démonté;Afrique;;;;;;Marotony;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-2773;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2774;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2775;Mo démonté;Afrique;;;;;;20 km ouest de Vondrozo;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-2776;Mo démonté;Afrique;;;;;;20 km ouest de Vondrozo;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-2777;Mo démonté;Afrique;;;;;;20 km ouest de Vondrozo;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-2778;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2779;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2780;Mo démonté;Afrique;;;;;;20 km ouest de Vondrozo;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-2781;Mo démonté;Afrique;;;;;;20 km ouest de Vondrozo;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-2782;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2783;Mo démonté;Afrique;;;;;;20 km ouest de Vondrozo;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-2784;Mo démonté;Afrique;;;;;;Ivohibe;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1962-2785;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2786;Mo démonté;Afrique;;;;;;Manombo;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-2787;Mo démonté;Afrique;;;;;;20 km ouest de Vondrozo;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-2788;Mo démonté;Afrique;;;;;;1 day E of Maromandia;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1962-2789;Mo démonté;Afrique;;;;;;Ivohibe;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1962-2790;Mo démonté;Afrique;;;;;;Ivohibe;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1962-2791;Mo démonté;Afrique;;;;;;Ivohibe;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1962-2792;Mo démonté;Afrique;;;;;;Tabiky;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1962-2793;C;Afrique;;;;;;20 km ouest de Vondrozo;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-2794;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2795;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2797;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2798;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2799;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2800;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2801;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2827;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2892;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-2893;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-70;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-78;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-79;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-80;P+C;Afrique;;;;;;Côte Ouest Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1962-81;P+C+Mb;Afrique;;;;;;Côte Ouest Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1962-82;P+C+Mb;Afrique;;;;;;Côte Ouest Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1962-83;P+C;Afrique;;;;;;;;;;;;;;;;;;254;;;2012-01-26T10:12:52+01:00;HENON;|
+ |
+MO-1962-84;P+C;Afrique;;;;;;Côte Ouest Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1962-85;P+C+Mb;;;;;;C.O. madagascar;;;;;;;;;;;;;;;;2010-09-27T15:57:33+02:00;ZAC
+MO-1962-87;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-88;P+C;Afrique;;;;;Centre Ouest Madagascar;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1962-89;P+C;Afrique;;;;;Centre Ouest Madagascar;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1962-90;P+C non extrait;Afrique;;;;;;Cote Est Forêt Sianaka;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1962-91;P+C;Afrique;;;;;;Côte Ouest de Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-92;P+C;Afrique;;;;;;Côte Ouest de Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1962-93;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-94;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-95;P+C+Mb;Afrique;;;;;;Côte Ouest Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1962-96;P+C+Mb;Afrique;;;;;;Côte Ouest Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1962-97;P+C+Mb;Afrique;;;;;;Côte Ouest Madagascar;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1962-98;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1962-99;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1964-61;P+C+Mb;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-62;P+C;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-63;P+C+Mb;Afrique;;;;;;Ambodivoangy (NE);;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1964-64;P+C+Mb;Afrique;;;;;;Mananara, (E);;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1964-66;P+C;Afrique;;;;;Nosuola;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1964-67;P+C;Afrique;;;;;Noswola;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1964-68;P+C+Mb;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-69;P+C+Mb;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-70;P+C+Mb;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-72;P+C+Mb;Afrique;;;;;;Mahambo;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1964-73;P+C+Mb;Afrique;;;;;;Mahambo (à l'Est de);;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1964-74;P+C+Mb;Afrique;;;;;;Ambodivoangy;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1964-76;P+C+Mb;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-77;P+C non extrait;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-78;P+C non extrait;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-80;P+C non extrait;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-81;P+C non extrait;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-82;P+C non extrait;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-83;P+C non extrait;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1964-84;P+C non extrait;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1967-1653;P+C;Afrique;;;;;;Périnet;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1967-1654;P+C+Mb;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1967-1655;P+C+Mb;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1967-1753;P+C+Mb;Afrique;;;;;Perinet;;;;;;;;;;;;;254;;;2012-08-21T13:48:21+02:00;CALLOU;|
+ |
+MO-1967-979;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1971-49;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1974-115;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1974-159;P+C+Mb;Afrique;;;;;Ménagerie du J des Plantes;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1974-219;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1977-765;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1979-19;C+Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1980-489 A;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1980-489 B;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1980-490;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1981-1985;Mo+C non extrait;Afrique;;;;;Beroboka;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1981-767;Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1981-768;Mo démonté;;;;;;;;;;;;;;;;;;;247;;;2012-01-25T15:26:03+01:00;HENON;|
+ |
+MO-1981-769;P+C+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1981-770;P+C+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1981-774;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1982-977;C+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1984-596;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1984-62;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1984-645;Mo+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1984-646;Mo+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1984-647;Mo+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1984-669;Mo+C non extrait;Afrique;;;;;Diego Suarez;Montagne d'Ambre;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1985-1812;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1985-1813;Mo démonté;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1986-1213;P+C+Mb;Afrique;;;;;;Lambuhara;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1986-424;P+Sq;Afrique;;;;;;Souche Morondrava;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-1986-425;P+C+Mb;Afrique;;;;Béroboka;;;;;;;;;;;Est ensuite resté en captivité (mort au Laboratoire d'Ecologie);;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1986-426;P+C+Mb;Afrique;;;;Béroboka;;;;;;;;;;;Est ensuite resté en captivité (mort au Laboratoire d'Ecologie);;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1986-427;P+C+Mb;Afrique;;;;Béroboka;;;;;;;;;;;Est ensuite resté en captivité (mort au Laboratoire d'Ecologie);;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1986-428;P+C+Mb;Afrique;;;;Béroboka;;;;;;;;;;;Est ensuite resté en captivité (mort au Laboratoire d'Ecologie);;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1986-429;P+C+Mb;Afrique;;;;Béroboka;;;;;;;;;;;Est ensuite resté en captivité (mort au Laboratoire d'Ecologie);;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1986-430;P+C+Mb;Afrique;;;;Béroboka;;;;;;;;;;;Est ensuite resté en captivité (mort au Laboratoire d'Ecologie);;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1986-431;P+C+Mb;Afrique;;;;Béroboka;;;;;;;;;;;Est ensuite resté en captivité (mort au Laboratoire d'Ecologie);;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1986-432;Mo démonté;Afrique;;;;;;Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1986-433;Mo démonté;Afrique;;;;;;Ambodivoangy (NE);;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1986-434;C+Mb;Afrique;;;;;;|Ampijoroa,; NW|;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1986-435;Mo démonté;Afrique;;;;;;Périnet;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1986-436;Mo démonté;Afrique;;;;;;Périnet;;;;;;;;;;;;254;;;2012-08-21T13:48:16+02:00;CALLOU;|
+ |
+MO-1986-437;Mo démonté;Afrique;;;;;;Nosivola;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1986-441;C+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1986-442;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1987-168;P+Sq;Afrique;;;;;Via Zoo de Vincennes.;;;;;;;;;;;;;254;;;2012-08-21T13:48:18+02:00;CALLOU;|
+ |
+MO-1987-251;P+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1987-252;C+Sq;Afrique;;;;;;Ankarafantséka (N.W.);;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1987-253;P+C+Mb;Afrique;;;;;Souch Ankarafantséka, NW malgache, 100 km Majunga;;;;;;;;;;;;;254;;;2012-08-21T13:48:19+02:00;CALLOU;|
+ |
+MO-1987-267;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1987-268;C+Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1990-429;P+C+Mb;;;;;;Elevage de Brunoy;;;;;;;;;;;;;;;;2010-09-27T15:57:34+02:00;ZAC
+MO-1990-430;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1990-431;Sq;Afrique;;;;;60 km au N de Morondava;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1990-652;P+C+Mb;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1991-1454;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1991-601;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1991-701;Mo+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1991-702;Mo+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1992-1857;P+Sq;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1992-4;Mo+Sq;Afrique;;;;;;Mananara (forêt de);;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1993-1666;P+C;Afrique;;;;;;;;;;;;;;;;;;254;;;2012-01-26T10:12:52+01:00;HENON;|
+ |
+MO-1993-1669;C+Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:33+02:00;ZAC
+MO-1993-4351;Mo+C non extrait;Afrique;;;;;;Mananara (forêt de), Nord-Est de l'Ile;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1994-1297;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1994-2444;C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1994-276;Alc+C;Afrique;;;;;;Andampy;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-1994-281;Alc+C;Afrique;;;;;;Antandroy;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1994-283;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1994-637;Alc+C;Afrique;;;;;;Côte Ouest;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1994-639;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1995-1236;P+C+Mb;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1995-332;Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:33+02:00;ZAC
+MO-1996-2159;Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1996-2160;Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1996-2161;C+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-1399;C+Sq;;;;;;;;;;;;;;;;;;;;;;2010-09-27T15:57:33+02:00;ZAC
+MO-1997-1404;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-250;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-251;Mo+C non extrait;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1997-253;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-254;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-255;Mo+C non extrait;Afrique;;;;;Auhaycabo ou Aukaycabo;;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1997-256;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-257;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-258;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-259;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-260;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-261;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-262;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-263;Mo+C non extrait;Afrique;;;;;;;;;;;;;;;Nord de Madagascar;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1997-264;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-265;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-266;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-267;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-268;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-269;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-270;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-271;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-272;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-273;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-274;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-275;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-276;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-277;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-278;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-279;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-280;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-281;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-282;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-283;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-284;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-285;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-286;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-287;Mo+C non extrait;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1997-288;Mo+C non extrait;Afrique;;;;;;Côte Nord-Est;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-1997-289;Mo+C non extrait;;;;;;;;;;;;;;;;;;;;;;2011-07-27T16:00:54+02:00;KERNEUR
+MO-1997-290;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-291;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-292;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-293;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-294;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-295;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-296 A;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-1997-296 B;Mo+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1821;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1822;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1823;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1825;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1826;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1827;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1828;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1829;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1830;Alc+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1832;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-1866;P+C;Afrique;;;;;;Andapa, 1 jour à l'Ouest d';;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-2001-1869;P+C;Afrique;;;;;;;Elevage de Brunoy;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-2001-2093;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-2094;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2001-2104;P+C;Afrique;;;;;;;;;;;;;;;;;;254;;;2012-01-26T10:12:52+01:00;HENON;|
+ |
+MO-2001-2105;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-1;P+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-41;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-42;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-43;P+Sq;Afrique;;;;;;Tuléar;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-2002-44;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-45;Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-46;P+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-48;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-49;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-50;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-51;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-52;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-53;P+C non extrait;Afrique;;;;;;Ankarafantsika;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-2002-53/54;Sq;Afrique;;;;;;Ankarafantsika;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-2002-54;P+C non extrait;Afrique;;;;;;Ankarafantsika, Tsimbazaza;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-2002-56;P+C+Mb;Afrique;;;;;;Morondava;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-2002-57;Sq;Afrique;;;;;;Ankarafantsika;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-2002-58;Mo démonté;Afrique;;;;;;Mahambo près de Fénérive;;;;;;;;;;;;254;;;2012-08-21T13:48:20+02:00;CALLOU;|
+ |
+MO-2002-59;P+Sq;Afrique;;;;;;;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-2002-60;P+C non extrait;Afrique;;;;;;Ankarafantsika;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-2002-61;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-62;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-63;P+C non extrait;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-64;Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-65;Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-66;P+C;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-67;P+C+Mb;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-68;P+Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-69;Sq;Afrique;;;;;;Ankarafantsika;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-2002-70;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-71;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-72;P+C non extrait;Afrique;;;;;;Ankarafantsika, Lac Ampijoroa;;;;;;;;;;;;254;;;2012-08-21T13:48:17+02:00;CALLOU;|
+ |
+MO-2002-73;Sq;Afrique;;;;;;Ankarafantsika;;;;;;;;;;;;254;;;2012-08-21T13:48:22+02:00;CALLOU;|
+ |
+MO-2002-74;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-75;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-76;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-77;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-78;Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-79;Sq;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-80;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-83;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-84;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-85;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-86;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-87;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-88;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-89;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-90;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-91;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-94;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
+MO-2002-98;Mo démonté;Afrique;;;;;Mistinjo, forêts à l'est de Fianarantsoa;;;;;;;;;;;;;254;;;2011-07-06T15:11:24+02:00;KERNEUR;|
+ |
