@@ -7,11 +7,22 @@
 }
 
 .states {
-  fill: none;
+  fill: blue;
   stroke: #fff;
   stroke-linejoin: round;
 }
 
+#distritos {
+    position: relative;
+}
+
+#map {
+    float: left;
+}
+
+#content {
+    float: left;
+}
 .q0-9 { fill:rgb(247,251,255); }
 .q1-9 { fill:rgb(222,235,247); }
 .q2-9 { fill:rgb(198,219,239); }
@@ -24,13 +35,20 @@
 
 </style>
 <body>
+<div id="distritos">
+<div id="map"></div>
+<div id="content">
+Teste
+</div>
+<div style="clear: both;"/>
+</div>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://d3js.org/queue.v1.min.js"></script>
 <script src="http://d3js.org/topojson.v1.min.js"></script>
 <script>
 
-var width = 960,
-    height = 500;
+var width = 450,
+    height = 700;
 
 var rateById = d3.map();
 
@@ -38,26 +56,28 @@ var quantize = d3.scale.quantize()
     .domain([0, .15])
     .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
-var path = d3.geo.path();
+var projection = d3.geo.equirectangular()
+    .scale([50000])
+    .center([-46.285685, -23.619594]);
 
-var svg = d3.select("body").append("svg")
+var path = d3.geo.path()
+            .projection(projection);
+
+var svg = d3.select("#map").append("svg")
     .attr("width", width)
     .attr("height", height);
 
 queue()
-    .defer(d3.json, "distritos.geojson")
+    .defer(d3.json, "distritos.topo")
  //   .defer(d3.tsv, "unemployment.tsv", function(d) { rateById.set(d.id, +d.rate); })
     .await(ready);
 
 function ready(error, ds) {
-  svg.append("g")
-      .attr("class", "counties")
-    .selectAll("path")
-      .data(ds.features)
-    .enter().append("path")
-      .attr("class", function(d) { return "q8-9"; })
+  svg.append("path")
+      .datum(topojson.feature(ds, ds.objects.distritos))
+      .attr("class", "states")
+//      .attr("class", function(d) { return "q8-9"; })
       .attr("d", path);
-
 }
 
 </script>
