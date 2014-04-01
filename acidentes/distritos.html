@@ -53,7 +53,7 @@ var width = 450,
 var rateById = d3.map();
 
 var quantize = d3.scale.quantize()
-    .domain([0, .15])
+    .domain([0, 628])
     .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
 
 var projection = d3.geo.equirectangular()
@@ -69,15 +69,18 @@ var svg = d3.select("#map").append("svg")
 
 queue()
     .defer(d3.json, "distritos.topo")
- //   .defer(d3.tsv, "unemployment.tsv", function(d) { rateById.set(d.id, +d.rate); })
+    .defer(d3.csv, "distritos-acidentes.csv", function(d) { rateById.set(d.id, +d.acidentes); })
     .await(ready);
 
 function ready(error, ds) {
-  svg.append("path")
-      .datum(topojson.feature(ds, ds.objects.distritos))
-      .attr("class", "states")
-//      .attr("class", function(d) { return "q8-9"; })
-      .attr("d", path);
+    console.log(rateById.keys());
+  svg.append("g")
+      .selectAll("path")
+      .data(topojson.feature(ds, ds.objects.distritos).features)
+        .enter().append("path")
+            .attr("class", "states")
+            .attr("class", function(d) { console.log(d,quantize(rateById.get(d.properties.Name)) ); return quantize(rateById.get(d.properties.Name)); })
+            .attr("d", path);
 }
 
 </script>
