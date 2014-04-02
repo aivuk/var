@@ -70,18 +70,17 @@ var svg = d3.select("#map").append("svg")
 
 queue()
     .defer(d3.json, "distritos.topo")
-    .defer(d3.csv, "distritos-acidentes.csv", function(d) { console.log(d.acidentes);rateById.set(d.map_id, +d.acidentes); })
+    .defer(d3.csv, "distritos-acidentes.csv", function(d) { rateById.set(d.map_id, +d.acidentes); })
     .await(ready);
 
 function ready(error, ds) {
-    console.log(rateById.values());
   svg.append("g")
       .selectAll("path")
       .data(topojson.feature(ds, ds.objects.distritos).features)
         .enter().append("path")
             .attr("title", function (d) { return d.properties.Name; })
             .attr("class", "states")
-            .attr("class", function(d) { console.log(d, rateById.get(d.id.toString()) ); return quantize(rateById.get(d.id.toString())); })
+            .attr("class", function(d) { return quantize(rateById.get(d.id.toString())); })
             .attr("d", path);
 }
 
