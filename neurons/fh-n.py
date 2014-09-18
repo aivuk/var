@@ -21,8 +21,8 @@ def integrate(func, v0, t0, tf, dt, *params):
 
     return np.array(series)
 
-def intPlot(i, v0, w0):
-    i = 0
+def intPlot(v0, w0, i):
+    pl.figure()
     x0 = np.array([v0, w0])
 
     ps = integrate(diff, x0, 0, 1000, 0.1, i)
@@ -56,15 +56,18 @@ def intPlot(i, v0, w0):
     pl.plot(x, w0, 'g--', linewidth=3)
     pl.plot(x, v0, 'r--', linewidth=3)
 
-    pl.savefig('/tmp/graph.png')
+    pl.ylabel("W")
+    pl.xlabel("V")
+
+    pl.savefig('/usr/share/nginx/www/neuron/graph.png')
 
 fh_n = Form(intPlot)
 fh_n += Float("Corrente")
 fh_n += Float("V0")
 fh_n += Float("W0")
 fh_n += Doc("""
-[](graph.png)
+![Plot](http://lem.ib.usp.br/neuron/graph.png)
 """)
 
-app = MainApp("FitzHugh-Nagano", [fh_n])
+app = MainApp("FitzHugh-Nagano", [fh_n], host='lem.ib.usp.br')
 app.run()

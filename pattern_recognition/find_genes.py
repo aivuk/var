@@ -15,10 +15,10 @@ n_genes = 3226
 
 for gene1, gene2 in [(gene1, gene2) for gene1 in range(n_genes) for gene2 in range(gene1, n_genes)]:
 
-    d1_a = [-1*float(d) for d in braca1[gene1]]
-    d1_b = [float(d) for d in braca2[gene1]]
-    d2_a = [-1*float(d) for d in braca1[gene2]]
-    d2_b = [float(d) for d in braca2[gene2]]
+    d1_a = [-1*float(d) for d in braca2[gene1]]
+    d1_b = [float(d) for d in not_braca2[gene1]]
+    d2_a = [-1*float(d) for d in braca2[gene2]]
+    d2_b = [float(d) for d in not_braca2[gene2]]
 
     b = matrix(-1*np.ones(len(d1_a + d1_b)))
     A = matrix([d1_a + d1_b,
@@ -35,5 +35,5 @@ for gene1, gene2 in [(gene1, gene2) for gene1 in range(n_genes) for gene2 in ran
         lin_sep += [(gene1, gene2)]
 
 
-output = open('line_sep', 'wb')
+output = open('line_sep_braca2_x_not_braca2', 'wb')
 pickle.dump(lin_sep, output)
