@@ -11,15 +11,14 @@ braca2 = data[data[3226] == 'BRACA2']
 not_braca1 = data[data[3226] != 'BRACA1'][1:]
 not_braca2 = data[data[3226] != 'BRACA2'][1:]
 solutions = {}
-group1 = braca1
-group2 = braca2
+group1 = braca2
+group2 = not_braca2
 P = matrix(np.diag([1.0,1,0]))
 q = matrix([0.0]*3)
+n_genes = 3226
+genes = pickle.load(open('line_sep_braca2_x_not_braca2', 'rb'))
 
-#n_genes = 3226
-n_genes = 10
-
-for gene1, gene2 in [(gene1, gene2) for gene1 in range(n_genes) for gene2 in range(gene1, n_genes)]:
+for gene1, gene2 in genes:
     b1 = np.array([map(float, b) for b in zip(group1[gene1], group1[gene2])])
     b2 = np.array([map(float, b) for b in zip(group2[gene1], group2[gene2])])
     h = matrix(-1*np.ones(b1.shape[0] + b2.shape[0]))
@@ -36,4 +35,4 @@ for gene1, gene2 in [(gene1, gene2) for gene1 in range(n_genes) for gene2 in ran
         w_mod = np.sqrt(w.T.dot(w))
         solutions[(gene1, gene2)] = [w, w_mod]
 
-pickle.dump(solutions, open('solutions', 'wb'))
+pickle.dump(solutions, open('solutions.braca2_x_not_braca2', 'wb'))
