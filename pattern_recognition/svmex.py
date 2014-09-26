@@ -40,7 +40,11 @@ def find_soft_hyperplane(group1, group2, C=1000):
 
     plot_hyperplane(group1, group2, sol['x'])
 
-    output = '<img src="/imgs/plot.png?{}"><p/><pre>{}</pre>'.format(np.random.random(), pp.pformat(sol) + '\n\nw = {}'.format(pp.pformat(list(sol['x']))))
+    w = pp.pformat(list(sol['x']))
+    margin = 2/np.sqrt(np.sum(sol['x'][0:2]**2))
+
+    output = '<img src="/imgs/plot.png?{}"><p/><pre>{}</pre>'.format(np.random.random(), 
+		pp.pformat(sol) + '\n\nw = {}\n\nMargin = {}'.format(w, margin))
 
     return output
 
