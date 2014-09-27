@@ -14,7 +14,7 @@ groups = {'braca1_x_braca2': (braca1, braca2),
 for gname, group_pair in groups.items():
     group1, group2 = group_pair
     lin_sep = []
-    for gene1, gene2 in [(gene1, gene2) for gene1 in range(n_genes) for gene2 in range(gene1, n_genes)]:
+    for gene1, gene2 in [(gene1, gene2) for gene1 in range(n_genes) for gene2 in range(gene1 + 1, n_genes)]:
         d1_a = [-1*float(d) for d in group1[gene1]]
         d1_b = [float(d) for d in group2[gene1]]
         d2_a = [-1*float(d) for d in group1[gene2]]
