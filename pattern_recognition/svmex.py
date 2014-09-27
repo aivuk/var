@@ -54,7 +54,7 @@ def plot_hyperplane(group1, group2, w):
     plt.scatter(group2.icol(0), group2.icol(1))
     xmin, xmax = plt.xlim()
     sol = w[0:3]
-    sol_w = np.sqrt(sum(sol**2))
+    sol_w = np.sqrt(sum(sol[0:2]**2))
     xspace = np.linspace(xmin, xmax)
     a = - sol[0] / sol[1]
     b = - sol[2] / sol[1]
