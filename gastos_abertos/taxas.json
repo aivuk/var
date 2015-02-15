@@ -1,0 +1,275 @@
+{
+  "name": "Taxas", 
+  "children": [
+    {
+      "name": "Taxas pela Presta\u00e7\u00e3o de Servi\u00e7os", 
+      "children": [
+        {
+          "name": "Outras Taxas pela Presta\u00e7\u00e3o de Servi\u00e7os", 
+          "children": [
+            {
+              "name": "TAXA DE CONSERVA\u00c7\u00c3O DE VIAS E LOGRADOUROS P\u00daBLICOS", 
+              "children": [
+                {
+                  "name": "TAXA DE ESTUDOS P/ FIXA\u00c7\u00c3O DE DIRETRIZES", 
+                  "value": 1052879.79
+                }
+              ]
+            }, 
+            {
+              "name": "TAXA DE COMBATE A SINISTROS", 
+              "children": [
+                {
+                  "name": "TAXA DE ESTUDOS P/ FIXA\u00c7\u00c3O DE DIRETRIZES", 
+                  "value": 1052879.79
+                }
+              ]
+            }, 
+            {
+              "name": "TAXA DE ESTUDOS P/ FIXA\u00c7\u00c3O DE DIRETRIZES", 
+              "children": [
+                {
+                  "name": "TAXA DE ESTUDOS P/ FIXA\u00c7\u00c3O DE DIRETRIZES", 
+                  "value": 1052879.79
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Taxa de Limpeza P\u00fablica", 
+          "children": [
+            {
+              "name": "TAXA DE LIMPEZA P\u00daBLICA", 
+              "children": [
+                {
+                  "name": "TAXA DE RES\u00cdDUOS S\u00d3LIDOS DOMICILIARES - TRSD", 
+                  "value": 25594.45
+                }, 
+                {
+                  "name": "TAXA DE RES\u00cdDUOS S\u00d3LIDOS DE SERVI\u00c7OS DE SA\u00daDE - TRSS", 
+                  "value": 47193031.85
+                }
+              ]
+            }, 
+            {
+              "name": "TAXA DE RES\u00cdDUOS S\u00d3LIDOS DOMICILIARES - TRSD", 
+              "children": [
+                {
+                  "name": "TAXA DE RES\u00cdDUOS S\u00d3LIDOS DOMICILIARES - TRSD", 
+                  "value": 25594.45
+                }, 
+                {
+                  "name": "TAXA DE RES\u00cdDUOS S\u00d3LIDOS DE SERVI\u00c7OS DE SA\u00daDE - TRSS", 
+                  "value": 47193031.85
+                }
+              ]
+            }, 
+            {
+              "name": "TAXA DE RES\u00cdDUOS S\u00d3LIDOS DE SERVI\u00c7OS DE SA\u00daDE - TRSS", 
+              "children": [
+                {
+                  "name": "TAXA DE RES\u00cdDUOS S\u00d3LIDOS DOMICILIARES - TRSD", 
+                  "value": 25594.45
+                }, 
+                {
+                  "name": "TAXA DE RES\u00cdDUOS S\u00d3LIDOS DE SERVI\u00c7OS DE SA\u00daDE - TRSS", 
+                  "value": 47193031.85
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "Taxas pelo Exerc\u00edcio do Poder de Pol\u00edcia", 
+      "children": [
+        {
+          "name": "Taxa de Fiscaliza\u00e7\u00e3o de Aparelhos de Transporte", 
+          "children": [
+            {
+              "name": "TAXA DE VISTORIA DE APARELHOS DE TRANSPORTE VERTICAL E HORIZONTAL", 
+              "children": [
+                {
+                  "name": "TAXA DE VISTORIA DE APARELHOS DE TRANSPORTE VERTICAL E HORIZONTAL", 
+                  "value": 8847031.77
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Outras Taxas pelo Exerc\u00edcio do Poder de Pol\u00edcia", 
+          "children": [
+            {
+              "name": "TAXA DE LICEN\u00c7A P/ TR\u00c1FEGO DE VE\u00cdCULOS", 
+              "children": [
+                {
+                  "name": "TAXA DE LICEN\u00c7A P/ ARRUAMENTOS E LOTEAMENTOS", 
+                  "value": 236.38
+                }, 
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DOS SERVI\u00c7OS DE LIMPEZA URBANA - FISLURB", 
+                  "value": 1327735.29
+                }, 
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE CEMIT\u00c9RIOS", 
+                  "value": 1528236.82
+                }, 
+                {
+                  "name": "TAXA DE REMO\u00c7\u00c3O - CET", 
+                  "value": 7934912.63
+                }
+              ]
+            }, 
+            {
+              "name": "TAXA DE LICEN\u00c7A P/ ARRUAMENTOS E LOTEAMENTOS", 
+              "children": [
+                {
+                  "name": "TAXA DE LICEN\u00c7A P/ ARRUAMENTOS E LOTEAMENTOS", 
+                  "value": 236.38
+                }, 
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DOS SERVI\u00c7OS DE LIMPEZA URBANA - FISLURB", 
+                  "value": 1327735.29
+                }, 
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE CEMIT\u00c9RIOS", 
+                  "value": 1528236.82
+                }, 
+                {
+                  "name": "TAXA DE REMO\u00c7\u00c3O - CET", 
+                  "value": 7934912.63
+                }
+              ]
+            }, 
+            {
+              "name": "TAXA DE FISCALIZA\u00c7\u00c3O DOS SERVI\u00c7OS DE LIMPEZA URBANA - FISLURB", 
+              "children": [
+                {
+                  "name": "TAXA DE LICEN\u00c7A P/ ARRUAMENTOS E LOTEAMENTOS", 
+                  "value": 236.38
+                }, 
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DOS SERVI\u00c7OS DE LIMPEZA URBANA - FISLURB", 
+                  "value": 1327735.29
+                }, 
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE CEMIT\u00c9RIOS", 
+                  "value": 1528236.82
+                }, 
+                {
+                  "name": "TAXA DE REMO\u00c7\u00c3O - CET", 
+                  "value": 7934912.63
+                }
+              ]
+            }, 
+            {
+              "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE CEMIT\u00c9RIOS", 
+              "children": [
+                {
+                  "name": "TAXA DE LICEN\u00c7A P/ ARRUAMENTOS E LOTEAMENTOS", 
+                  "value": 236.38
+                }, 
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DOS SERVI\u00c7OS DE LIMPEZA URBANA - FISLURB", 
+                  "value": 1327735.29
+                }, 
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE CEMIT\u00c9RIOS", 
+                  "value": 1528236.82
+                }, 
+                {
+                  "name": "TAXA DE REMO\u00c7\u00c3O - CET", 
+                  "value": 7934912.63
+                }
+              ]
+            }, 
+            {
+              "name": "TAXA DE REMO\u00c7\u00c3O - CET", 
+              "children": [
+                {
+                  "name": "TAXA DE LICEN\u00c7A P/ ARRUAMENTOS E LOTEAMENTOS", 
+                  "value": 236.38
+                }, 
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DOS SERVI\u00c7OS DE LIMPEZA URBANA - FISLURB", 
+                  "value": 1327735.29
+                }, 
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE CEMIT\u00c9RIOS", 
+                  "value": 1528236.82
+                }, 
+                {
+                  "name": "TAXA DE REMO\u00c7\u00c3O - CET", 
+                  "value": 7934912.63
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Taxa de Publicidade Comercial", 
+          "children": [
+            {
+              "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE AN\u00daNCIOS", 
+              "children": [
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE AN\u00daNCIOS", 
+                  "value": 16850185.89
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Taxa de Aprova\u00e7\u00e3o do Projeto de Contru\u00e7\u00e3o Civil", 
+          "children": [
+            {
+              "name": "TAXA P/ EXAME E VERIFICA\u00c7\u00c3O DE  PROJETOS E CONSTRU\u00c7\u00d5ES", 
+              "children": [
+                {
+                  "name": "TAXA P/ EXAME E VERIFICA\u00c7\u00c3O DE  PROJETOS E CONSTRU\u00c7\u00d5ES", 
+                  "value": 85610353.83
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Taxa de Licen\u00e7a para Funcionamento de Estabelecimentos Comerciais, Ind\u00fastria e Prestadora de Servi\u00e7os", 
+          "children": [
+            {
+              "name": "TAXA DE LICEN\u00c7A P/ LOCALIZA\u00c7\u00c3O, INSTALA\u00c7\u00c3O E FUNCIONAMENTO", 
+              "children": [
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE ESTABELECIMENTOS - TFE", 
+                  "value": 117461118.26
+                }
+              ]
+            }, 
+            {
+              "name": "TAXA DE VISTORIA DE NORMAS DE SEGURAN\u00c7A", 
+              "children": [
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE ESTABELECIMENTOS - TFE", 
+                  "value": 117461118.26
+                }
+              ]
+            }, 
+            {
+              "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE ESTABELECIMENTOS - TFE", 
+              "children": [
+                {
+                  "name": "TAXA DE FISCALIZA\u00c7\u00c3O DE ESTABELECIMENTOS - TFE", 
+                  "value": 117461118.26
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

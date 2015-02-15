@@ -1,77 +1,196 @@
 {
-  "name": "Impostos x Taxas", 
+  "name": "Impostos", 
   "children": [
     {
-      "name": "Impostos", 
+      "name": "Impostos sobre o Patrim\u00f4nio e a Renda", 
       "children": [
         {
-          "name": "Impostos sobre a Produ\u00e7\u00e3o e a Circula\u00e7\u00e3o", 
-          "value": 0.0
-        }, 
-        {
           "name": "Imposto sobre a Renda e Proventos de Qualquer Natureza", 
-          "value": 242223.02
-        }, 
-        {
-          "name": "Adicional ISS - Fundo Municipal de Combate \u00e0 Pobreza", 
-          "value": 327653.07
-        }, 
-        {
-          "name": "IRRF - Imposto de Renda Retido nas Fontes sobre Outros Rendimentos", 
-          "value": 226225681.79
-        }, 
-        {
-          "name": "ISS - Imposto sobre Servi\u00e7os de Qualquer Natureza", 
-          "value": 924157539.39
-        }, 
-        {
-          "name": "IRRF - Imposto de Renda Retido nas Fontes sobre os Rendimentos do Trabalho", 
-          "value": 984846685.99
+          "children": [
+            {
+              "name": "IMPOSTO DE RENDA RETIDO NAS FONTES S/ REMESSA DE RECURSOS AO EXTERIOR", 
+              "children": [
+                {
+                  "name": "IMPOSTO DE RENDA RETIDO NAS FONTES S/ REMESSA DE RECURSOS AO EXTERIOR", 
+                  "value": 242223.02
+                }, 
+                {
+                  "name": "IRRF - Imposto de Renda Retido nas Fontes sobre Outros Rendimentos", 
+                  "value": 226225681.79
+                }, 
+                {
+                  "name": "IRRF - Imposto de Renda Retido nas Fontes sobre os Rendimentos do Trabalho", 
+                  "value": 984846685.99
+                }
+              ]
+            }, 
+            {
+              "name": "IRRF - Imposto de Renda Retido nas Fontes sobre Outros Rendimentos", 
+              "children": [
+                {
+                  "name": "IMPOSTO DE RENDA RETIDO NAS FONTES S/ REMESSA DE RECURSOS AO EXTERIOR", 
+                  "value": 242223.02
+                }, 
+                {
+                  "name": "IRRF - Imposto de Renda Retido nas Fontes sobre Outros Rendimentos", 
+                  "value": 226225681.79
+                }, 
+                {
+                  "name": "IRRF - Imposto de Renda Retido nas Fontes sobre os Rendimentos do Trabalho", 
+                  "value": 984846685.99
+                }
+              ]
+            }, 
+            {
+              "name": "IRRF - Imposto de Renda Retido nas Fontes sobre os Rendimentos do Trabalho", 
+              "children": [
+                {
+                  "name": "IMPOSTO DE RENDA RETIDO NAS FONTES S/ REMESSA DE RECURSOS AO EXTERIOR", 
+                  "value": 242223.02
+                }, 
+                {
+                  "name": "IRRF - Imposto de Renda Retido nas Fontes sobre Outros Rendimentos", 
+                  "value": 226225681.79
+                }, 
+                {
+                  "name": "IRRF - Imposto de Renda Retido nas Fontes sobre os Rendimentos do Trabalho", 
+                  "value": 984846685.99
+                }
+              ]
+            }
+          ]
         }, 
         {
           "name": "ITBI - Imposto sobre Transmiss\u00e3o \"Inter Vivos\" de Bens Im\u00f3veis e de Direitos Reais sobre Im\u00f3veis", 
-          "value": 1405961460.17
+          "children": [
+            {
+              "name": "IMPOSTO S/ TRANS. INTER-VIVOS  DE BENS IM\u00d3VEIS E DIR. REAIS S/ IM\u00d3VEIS", 
+              "children": [
+                {
+                  "name": "IMPOSTO S/ TRANS. INTER-VIVOS  DE BENS IM\u00d3VEIS E DIR. REAIS S/ IM\u00d3VEIS", 
+                  "value": 1405961460.17
+                }
+              ]
+            }
+          ]
         }, 
         {
           "name": "IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana", 
-          "value": 5906159027.65
-        }, 
-        {
-          "name": "ISS - Imposto sobre Servi\u00e7os de Qualquer Natureza", 
-          "value": 10121237864.1
+          "children": [
+            {
+              "name": "IMPOSTO S/ A PROPRIEDADE TERRITORIAL URBANA", 
+              "children": [
+                {
+                  "name": "IMPOSTO S/ A PROPRIEDADE TERRITORIAL URBANA", 
+                  "value": 255386563.21
+                }, 
+                {
+                  "name": "IMPOSTO S/ A PROPRIEDADE PREDIAL", 
+                  "value": 5650772464.44
+                }
+              ]
+            }, 
+            {
+              "name": "IMPOSTO S/ A PROPRIEDADE PREDIAL", 
+              "children": [
+                {
+                  "name": "IMPOSTO S/ A PROPRIEDADE TERRITORIAL URBANA", 
+                  "value": 255386563.21
+                }, 
+                {
+                  "name": "IMPOSTO S/ A PROPRIEDADE PREDIAL", 
+                  "value": 5650772464.44
+                }
+              ]
+            }
+          ]
         }
       ]
     }, 
     {
-      "name": "Taxas", 
+      "name": "Impostos sobre a Produ\u00e7\u00e3o e a Circula\u00e7\u00e3o", 
       "children": [
         {
-          "name": "Outras Taxas pela Presta\u00e7\u00e3o de Servi\u00e7os", 
-          "value": 1052879.79
+          "name": "IMPOSTO S/ VENDA A VAREJO DE COMBUST\u00cdVEIS L\u00cdQUIDOS E GASOSOS - IVV", 
+          "children": [
+            {
+              "name": "IMPOSTO S/ VENDA A VAREJO DE COMBUST\u00cdVEIS L\u00cdQUIDOS E GASOSOS - IVV", 
+              "children": []
+            }
+          ]
         }, 
         {
-          "name": "Taxa de Fiscaliza\u00e7\u00e3o de Aparelhos de Transporte", 
-          "value": 8847031.77
-        }, 
-        {
-          "name": "Outras Taxas pelo Exerc\u00edcio do Poder de Pol\u00edcia", 
-          "value": 10791121.12
-        }, 
-        {
-          "name": "Taxa de Publicidade Comercial", 
-          "value": 16850185.89
-        }, 
-        {
-          "name": "Taxa de Limpeza P\u00fablica", 
-          "value": 47218626.3
-        }, 
-        {
-          "name": "Taxa de Aprova\u00e7\u00e3o do Projeto de Contru\u00e7\u00e3o Civil", 
-          "value": 85610353.83
-        }, 
-        {
-          "name": "Taxa de Licen\u00e7a para Funcionamento de Estabelecimentos Comerciais, Ind\u00fastria e Prestadora de Servi\u00e7os", 
-          "value": 117461118.26
+          "name": "ISS - Imposto sobre Servi\u00e7os de Qualquer Natureza", 
+          "children": [
+            {
+              "name": "ISS - CMSP", 
+              "children": [
+                {
+                  "name": "Adicional ISS - Fundo Municipal de Combate \u00e0 Pobreza", 
+                  "value": 327653.07
+                }, 
+                {
+                  "name": "ISS - SIMPLES NACIONAL", 
+                  "value": 924157539.39
+                }, 
+                {
+                  "name": "ISS - Imposto sobre Servi\u00e7os de Qualquer Natureza", 
+                  "value": 10121237864.1
+                }
+              ]
+            }, 
+            {
+              "name": "Adicional ISS - Fundo Municipal de Combate \u00e0 Pobreza", 
+              "children": [
+                {
+                  "name": "Adicional ISS - Fundo Municipal de Combate \u00e0 Pobreza", 
+                  "value": 327653.07
+                }, 
+                {
+                  "name": "ISS - SIMPLES NACIONAL", 
+                  "value": 924157539.39
+                }, 
+                {
+                  "name": "ISS - Imposto sobre Servi\u00e7os de Qualquer Natureza", 
+                  "value": 10121237864.1
+                }
+              ]
+            }, 
+            {
+              "name": "ISS - SIMPLES NACIONAL", 
+              "children": [
+                {
+                  "name": "Adicional ISS - Fundo Municipal de Combate \u00e0 Pobreza", 
+                  "value": 327653.07
+                }, 
+                {
+                  "name": "ISS - SIMPLES NACIONAL", 
+                  "value": 924157539.39
+                }, 
+                {
+                  "name": "ISS - Imposto sobre Servi\u00e7os de Qualquer Natureza", 
+                  "value": 10121237864.1
+                }
+              ]
+            }, 
+            {
+              "name": "ISS - Imposto sobre Servi\u00e7os de Qualquer Natureza", 
+              "children": [
+                {
+                  "name": "Adicional ISS - Fundo Municipal de Combate \u00e0 Pobreza", 
+                  "value": 327653.07
+                }, 
+                {
+                  "name": "ISS - SIMPLES NACIONAL", 
+                  "value": 924157539.39
+                }, 
+                {
+                  "name": "ISS - Imposto sobre Servi\u00e7os de Qualquer Natureza", 
+                  "value": 10121237864.1
+                }
+              ]
+            }
+          ]
         }
       ]
     }
